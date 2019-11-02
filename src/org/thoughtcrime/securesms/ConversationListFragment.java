@@ -119,6 +119,9 @@ public class ConversationListFragment extends Fragment
   private PulsingFloatingActionButton fab;
   private PulsingFloatingActionButton cameraFab;
   private PulsingFloatingActionButton packmamFab;
+  private PulsingFloatingActionButton walletFab;
+  private PulsingFloatingActionButton shopFab;
+  private PulsingFloatingActionButton chatbotFab;
   private Locale                      locale;
   private String                      queryFilter  = "";
   private boolean                     archive;
@@ -139,6 +142,9 @@ public class ConversationListFragment extends Fragment
     fab          = ViewUtil.findById(view, R.id.fab);
     cameraFab    = ViewUtil.findById(view, R.id.camera_fab);
     packmamFab   = ViewUtil.findById(view, R.id.packmam_fab);
+    walletFab    = ViewUtil.findById(view, R.id.wallet_fab);
+    shopFab      = ViewUtil.findById(view, R.id.shop_fab);
+    chatbotFab   = ViewUtil.findById(view, R.id.chatbot_fab);
     emptyState   = ViewUtil.findById(view, R.id.empty_state);
     emptyImage   = ViewUtil.findById(view, R.id.empty);
     emptySearch  = ViewUtil.findById(view, R.id.empty_search);
@@ -187,6 +193,18 @@ public class ConversationListFragment extends Fragment
     });
     initializeListAdapter();
     initializeTypingObserver();
+    walletFab.setOnClickListener(v->{
+      Intent intent = new Intent(this.getContext(), WalletActivity.class);
+      startActivity(intent);
+    });
+    shopFab.setOnClickListener(v->{
+      Intent intent = new Intent(this.getContext(), ShopActivity.class);
+      startActivity(intent);
+    });
+    chatbotFab.setOnClickListener(v->{
+      Intent intent = new Intent(this.getContext(), ChatbotActivity.class);
+      startActivity(intent);
+    });
   }
 
   @Override
