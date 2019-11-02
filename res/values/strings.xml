@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Signal</string>
 
     <string name="install_url" translatable="false">https://signal.org/install</string>
 
@@ -1633,6 +1632,7 @@
     <string name="prompt_passphrase_activity__tap_to_unlock">TAP TO UNLOCK</string>
     <string name="RegistrationLockDialog_reminder">Reminder:</string>
     <string name="recipient_preferences__about">About</string>
+    <string name="app_name">Packmam</string>
     <!-- EOF -->
 
 </resources>

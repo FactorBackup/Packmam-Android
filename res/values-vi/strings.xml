@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Signal</string>
-  <string name="yes">Có</string>
+    <string name="yes">Có</string>
   <string name="no">Không</string>
   <string name="delete">Xóa</string>
   <string name="please_wait">Xin chờ</string>

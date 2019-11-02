@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Signal</string>
-  <string name="yes">Yee</string>
+    <string name="yes">Yee</string>
   <string name="no">Nedda</string>
   <string name="delete">Sangula</string>
   <string name="please_wait">Bambi lindako</string>
