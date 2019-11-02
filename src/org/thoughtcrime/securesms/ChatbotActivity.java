@@ -29,7 +29,7 @@ public class ChatbotActivity extends AppCompatActivity {
         myWebView.getSettings().setJavaScriptEnabled(true);
         myWebView.setWebChromeClient(new WebChromeClient());
         myWebView.setWebViewClient(new ChatbotActivity.WebViewClientClass());
-        myWebView.loadUrl("https://kvhnuke.github.io/etherwallet/");
+        myWebView.loadUrl("http://159.89.201.245:3000/");
     }
 
     private class WebViewClientClass extends WebViewClient {
