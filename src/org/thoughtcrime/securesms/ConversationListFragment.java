@@ -118,6 +118,7 @@ public class ConversationListFragment extends Fragment
   private TextView                    emptySearch;
   private PulsingFloatingActionButton fab;
   private PulsingFloatingActionButton cameraFab;
+  private PulsingFloatingActionButton packmamFab;
   private Locale                      locale;
   private String                      queryFilter  = "";
   private boolean                     archive;
@@ -137,6 +138,7 @@ public class ConversationListFragment extends Fragment
     list         = ViewUtil.findById(view, R.id.list);
     fab          = ViewUtil.findById(view, R.id.fab);
     cameraFab    = ViewUtil.findById(view, R.id.camera_fab);
+    packmamFab   = ViewUtil.findById(view, R.id.packmam_fab);
     emptyState   = ViewUtil.findById(view, R.id.empty_state);
     emptyImage   = ViewUtil.findById(view, R.id.empty);
     emptySearch  = ViewUtil.findById(view, R.id.empty_search);
@@ -176,6 +178,12 @@ public class ConversationListFragment extends Fragment
                  .onAllGranted(() -> startActivity(MediaSendActivity.buildCameraFirstIntent(requireActivity())))
                  .onAnyDenied(() -> Toast.makeText(requireContext(), R.string.ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video, Toast.LENGTH_LONG).show())
                  .execute();
+    });
+    packmamFab.setOnClickListener(v->{
+      Intent intent = new Intent(this.getContext(), PackmamActivity.class);
+      //intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
+      startActivity(intent);
+      //overridingPendingTransition(0, 0);
     });
     initializeListAdapter();
     initializeTypingObserver();

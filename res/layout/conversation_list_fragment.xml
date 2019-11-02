@@ -92,5 +92,18 @@
             android:focusable="true"
             android:contentDescription="@string/conversation_list_fragment__fab_content_description"/>
 
+    <org.thoughtcrime.securesms.components.registration.PulsingFloatingActionButton
+        android:id="@+id/packmam_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="160dp"
+        android:contentDescription="@string/conversation_list_fragment__open_camera_description"
+        android:focusable="true"
+        android:src="@drawable/floating_packmam"
+        android:tint="?conversation_list_camera_icon_tint"
+        app:backgroundTint="?conversation_list_camera_button_background" />
+
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
