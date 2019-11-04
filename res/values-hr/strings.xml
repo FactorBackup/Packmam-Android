@@ -27,17 +27,17 @@
   </plurals>
   <string name="ApplicationPreferencesActivity_delete">Obriši</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Onemogući lozinku?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Trajno ćete otključati Signal i obavijesti o porukama.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Trajno ćete otključati Packmam i obavijesti o porukama.</string>
   <string name="ApplicationPreferencesActivity_disable">Onemogući</string>
   <string name="ApplicationPreferencesActivity_unregistering">Uklanjanje registracije</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Uklanjanje registracije na Signal poruke i pozive...</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Onemogući Signal poruke i pozive?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Onemogućite Signal poruke i pozive tako što će ukloniti registraciju s poslužitelja. Trebat ćete ponovno registrirati vaš broj telefona kako biste ih koristili u budućnosti.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Uklanjanje registracije na Packmam poruke i pozive...</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Onemogući Packmam poruke i pozive?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Onemogućite Packmam poruke i pozive tako što će ukloniti registraciju s poslužitelja. Trebat ćete ponovno registrirati vaš broj telefona kako biste ih koristili u budućnosti.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Greška prilikom povezivanja na poslužitelj!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS omogućen</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Pritisnite za promjenu zadane SMS aplikacije</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS onemogućen</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Pritisnite kako biste postavili Signal kao zadanu SMS aplikaciju</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Pritisnite kako biste postavili Packmam kao zadanu SMS aplikaciju</string>
   <string name="ApplicationPreferencesActivity_on">uključeno</string>
   <string name="ApplicationPreferencesActivity_On">Uključeno</string>
   <string name="ApplicationPreferencesActivity_off">isključeno</string>
@@ -59,10 +59,10 @@
   <string name="DraftDatabase_Draft_quote_snippet">(odgovor)</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Nije moguće pronaći aplikaciju za odabir medija.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Signal zahtijeva dozvolu pristupa Pohrani podataka za umetanje slikovnih i audio-vizualnih priloga ali zahtjev biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Pohrana\".</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Signal zahtijeva dozvolu pristupa Kontaktima za prilaganje informacije o kontaktima ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kontakti\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Signal zahtijeva dozvolu pristupa Lokaciji za prilaganje informacije o vašoj lokaciji ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Lokacija\".</string>
-  <string name="AttachmentManager_signal_requires_the_camera_permission_in_order_to_take_photos_but_it_has_been_permanently_denied">Signal zahtijeva dozvolu pristupa Kameri za omogućavanje slikanja ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kamera\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Packmam zahtijeva dozvolu pristupa Pohrani podataka za umetanje slikovnih i audio-vizualnih priloga ali zahtjev biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Pohrana\".</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Packmam zahtijeva dozvolu pristupa Kontaktima za prilaganje informacije o kontaktima ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kontakti\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Packmam zahtijeva dozvolu pristupa Lokaciji za prilaganje informacije o vašoj lokaciji ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Lokacija\".</string>
+  <string name="AttachmentManager_signal_requires_the_camera_permission_in_order_to_take_photos_but_it_has_been_permanently_denied">Packmam zahtijeva dozvolu pristupa Kameri za omogućavanje slikanja ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kamera\".</string>
   <!--AttachmentUploadJob-->
   <string name="AttachmentUploadJob_uploading_media">Prijenos medija…</string>
   <!--AudioSlidePlayer-->
@@ -81,14 +81,14 @@
   <!--CameraXFragment-->
   <!--CameraContacts-->
   <string name="CameraContacts_recent_contacts">Nedavni kontakti</string>
-  <string name="CameraContacts_signal_contacts">Signal kontakti</string>
-  <string name="CameraContacts_signal_groups">Signal grupe</string>
+  <string name="CameraContacts_signal_contacts">Packmam kontakti</string>
+  <string name="CameraContacts_signal_groups">Packmam grupe</string>
   <string name="CameraContacts_you_can_share_with_a_maximum_of_n_conversations">Možete dijeliti s najviše %d razgovora.</string>
-  <string name="CameraContacts_select_signal_recipients">Odaberi Signal primatelje</string>
-  <string name="CameraContacts_no_signal_contacts">Nema Signal kontakata</string>
-  <string name="CameraContacts_you_can_only_use_the_camera_button">Okidač kamere možete samo koristiti za slanje fotografija Signal kontaktima.</string>
+  <string name="CameraContacts_select_signal_recipients">Odaberi Packmam primatelje</string>
+  <string name="CameraContacts_no_signal_contacts">Nema Packmam kontakata</string>
+  <string name="CameraContacts_you_can_only_use_the_camera_button">Okidač kamere možete samo koristiti za slanje fotografija Packmam kontaktima.</string>
   <string name="CameraContacts_cant_find_who_youre_looking_for">Niste našli što tražite?</string>
-  <string name="CameraContacts_invite_a_contact_to_join_signal">Pozovi kontakt da pristupi Signal-u</string>
+  <string name="CameraContacts_invite_a_contact_to_join_signal">Pozovi kontakt da pristupi Packmam-u</string>
   <string name="CameraContacts__menu_search">Traži</string>
   <!--ClearProfileActivity-->
   <string name="ClearProfileActivity_remove">Ukloni</string>
@@ -97,7 +97,7 @@
   <string name="CommunicationActions_no_browser_found">Web pretraživać nije pronađen.</string>
   <string name="CommunicationActions_a_cellular_call_is_already_in_progress">Mobilni poziv već je u tijeku.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Vaš sigurnosni broj za %1$s je izmjenjen. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da je %2$s jednostavno ponovno instalirao Signal.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Vaš sigurnosni broj za %1$s je izmjenjen. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da je %2$s jednostavno ponovno instalirao Packmam.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Možda biste trebali provjeriti sigurnosni broj za ovaj kontakt.</string>
   <string name="ConfirmIdentityDialog_accept">Prihvati</string>
   <!--ContactsCursorLoader-->
@@ -106,7 +106,7 @@
   <string name="ContactsCursorLoader_groups">Grupe</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Poruka %s</string>
-  <string name="ContactsDatabase_signal_call_s">Signal poziv %s</string>
+  <string name="ContactsDatabase_signal_call_s">Packmam poziv %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Ime</string>
   <string name="ContactNameEditActivity_family_name">Prezime</string>
@@ -126,7 +126,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Slanje neuspješno, pritisnite za nesigurnu rezervu</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Nekriptirani SMS kao rezerva?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Nekriptirani MMS kao rezerva?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Ova poruka <b>neće</b> biti kriptirana zato što primatelj nije više Signal korisnik.\n\nPošalji nesigurnu poruku?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Ova poruka <b>neće</b> biti kriptirana zato što primatelj nije više Packmam korisnik.\n\nPošalji nesigurnu poruku?</string>
   <string name="ConversationItem_unable_to_open_media">Nije moguće pronaći aplikaciju za otvaranje ovog medija.</string>
   <string name="ConversationItem_copied_text">Kopirano %s</string>
   <string name="ConversationItem_from_s">od %s</string>
@@ -153,8 +153,8 @@
   <string name="ConversationActivity_are_you_sure_you_want_to_leave_this_group">Jeste li sigurni da želite napustiti ovu grupu?</string>
   <string name="ConversationActivity_transport_insecure_sms">Nesigurni SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Nesigurni MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Prebaci se na Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">Packmam</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Prebaci se na Packmam %1$s</string>
   <string name="ConversationActivity_error_leaving_group">Greška pri napuštanju grupe</string>
   <string name="ConversationActivity_specify_recipient">Odaberite kontakt</string>
   <string name="ConversationActivity_unblock_this_contact_question">Ukloni blokadu ovog kontakta?</string>
@@ -166,15 +166,15 @@
   <string name="ConversationActivity_quick_camera_unavailable">Kamera nije dostupna</string>
   <string name="ConversationActivity_unable_to_record_audio">Nije moguće snimati svuk!</string>
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Na vašem uređaju ne postoji aplikacija koja bi rukovala ovom poveznicom.</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Kako biste poslali audio poruku, dozvolite Signalu pristup vašem mikrofonu.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Signal zahtijeva dozvolu pristupa Mikrofonu za slanje zvučnih poruka ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Mikrofon\".</string>
-  <string name="ConversationActivity_to_call_s_signal_needs_access_to_your_microphone_and_camera">Kako biste nazvali %s, Signal treba pristup vašem mikrofonu i kameri.</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Signal zahtijeva pristup Mikrofonu i Kameri za pozivanje %s ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Mikrofon\" i \"Kamera\".</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Kako biste snimili slike i video, dozvolite Signalu pristup kameri.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Signal zahtijeva dozvolu Kameri za fotografiranje ili snimanje videa, ali pristup biva odbijen. Molim nastavite s postavkama aplikacije, odaberite \"Dozvole\" i omogućite \"Kamera\". </string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Signal treba pristup kameri kako bi snimio slike ili video.</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">Kako biste poslali audio poruku, dozvolite Packmamu pristup vašem mikrofonu.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Packmam zahtijeva dozvolu pristupa Mikrofonu za slanje zvučnih poruka ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Mikrofon\".</string>
+  <string name="ConversationActivity_to_call_s_signal_needs_access_to_your_microphone_and_camera">Kako biste nazvali %s, Packmam treba pristup vašem mikrofonu i kameri.</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Packmam zahtijeva pristup Mikrofonu i Kameri za pozivanje %s ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Mikrofon\" i \"Kamera\".</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">Kako biste snimili slike i video, dozvolite Packmamu pristup kameri.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Packmam zahtijeva dozvolu Kameri za fotografiranje ili snimanje videa, ali pristup biva odbijen. Molim nastavite s postavkama aplikacije, odaberite \"Dozvole\" i omogućite \"Kamera\". </string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Packmam treba pristup kameri kako bi snimio slike ili video.</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s%2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Signal ne može poslati SMS/MMS poruke jer nije označen kao vaša uobičajena SMS aplikacija. Želite li promijeniti ovu stavku u Android postavkama?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Packmam ne može poslati SMS/MMS poruke jer nije označen kao vaša uobičajena SMS aplikacija. Želite li promijeniti ovu stavku u Android postavkama?</string>
   <string name="ConversationActivity_yes">Da</string>
   <string name="ConversationActivity_no">Ne</string>
   <string name="ConversationActivity_search_position">%1$d od %2$d</string>
@@ -221,7 +221,7 @@
     <item quantity="other">Spremanje %1$d privitaka na disk...</item>
   </plurals>
   <string name="ConversationFragment_pending">U toku...</string>
-  <string name="ConversationFragment_push">Podaci (Signal)</string>
+  <string name="ConversationFragment_push">Podaci (Packmam)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Brisanje</string>
@@ -269,7 +269,7 @@
   <string name="CreateProfileActivity_too_long">Predugo</string>
   <string name="CreateProfileActivity_profile_name">Ime profila</string>
   <string name="CreateProfileActivity_set_up_your_profile">Postavite vaš profil</string>
-  <string name="CreateProfileActivity_signal_profiles_are_end_to_end_encrypted">Signal profili su zaštićeni s kraja na kraj, te Signal servis nikada nema pristup tim informacijama.</string>
+  <string name="CreateProfileActivity_signal_profiles_are_end_to_end_encrypted">Packmam profili su zaštićeni s kraja na kraj, te Signal servis nikada nema pristup tim informacijama.</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Koristeći prilagođeno: %s</string>
   <string name="CustomDefaultPreference_using_default">Koristeći zadano: %s</string>
@@ -301,22 +301,22 @@
   <string name="DocumentView_unknown_file">Nepoznata datoteka</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Optimiziraj za nedostatak Play Services</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ovaj uređaj ne podržava Play Services. Pritisnite kako biste onemogućili sistemsku optimizaciju baterije koja spriječava Signal da dohvaća poruke dok je uređaj neaktivan.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Ovaj uređaj ne podržava Play Services. Pritisnite kako biste onemogućili sistemsku optimizaciju baterije koja spriječava Packmam da dohvaća poruke dok je uređaj neaktivan.</string>
   <!--ShareActivity-->
   <string name="ShareActivity_share_with">Podijeli s</string>
   <!--ExperienceUpgradeActivity-->
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Dobro došli u Signal.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">TextSecure i RedPhone su sada jedan privatni način komunikacije za svaku situaciju: Signal.</string>
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Dobro došli u Signal!</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">TextSecure je sada Signal.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">TextSecure i RedPhone su sada jedna aplikacija: Signal. Pritisnite za pregled.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Dobro došli u Packmam.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">TextSecure i RedPhone su sada jedan privatni način komunikacije za svaku situaciju: Packmam.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Dobro došli u Packmam!</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">TextSecure je sada Packmam.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">TextSecure i RedPhone su sada jedna aplikacija: Packmam. Pritisnite za pregled.</string>
   <string name="ExperienceUpgradeActivity_say_hello_to_video_calls">Pozdravite sigurne video pozive.</string>
-  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calls">Signal sada podržava sigurne video pozive. Samo započnite Signal poziv kao i inače, pritisnite video tipku, i mahnite sugovorniku.</string>
-  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling">Signal sada podržava sigurne video pozive.</string>
-  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling_long">Signal sada podržava sigurne video pozive. Pritisnite kako biste istražili.</string>
+  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calls">Packmam sada podržava sigurne video pozive. Samo započnite Signal poziv kao i inače, pritisnite video tipku, i mahnite sugovorniku.</string>
+  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling">Packmam sada podržava sigurne video pozive.</string>
+  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling_long">Packmam sada podržava sigurne video pozive. Pritisnite kako biste istražili.</string>
   <string name="ExperienceUpgradeActivity_ready_for_your_closeup">Spremni za snimku izbliza?</string>
-  <string name="ExperienceUpgradeActivity_now_you_can_share_a_profile_photo_and_name_with_friends_on_signal">Sada možete podijeliti profilnu sliku i ime s prijateljima na Signalu</string>
-  <string name="ExperienceUpgradeActivity_signal_profiles_are_here">Signal profili su stigli</string>
+  <string name="ExperienceUpgradeActivity_now_you_can_share_a_profile_photo_and_name_with_friends_on_signal">Sada možete podijeliti profilnu sliku i ime s prijateljima na Packmamu</string>
+  <string name="ExperienceUpgradeActivity_signal_profiles_are_here">Packmam profili su stigli</string>
   <string name="ExperienceUpgradeActivity_introducing_typing_indicators">Predstavljamo pokazatelja tipkanja.</string>
   <string name="ExperienceUpgradeActivity_now_you_can_optionally_see_and_share_when_messages_are_being_typed">Sada imate mogućnost vidjeti i podijeliti poruke već kad ih drugi pišu.</string>
   <string name="ExperienceUpgradeActivity_would_you_like_to_enable_them_now">Želite li ih omogućiti sada?</string>
@@ -326,13 +326,13 @@
   <string name="ExperienceUpgradeActivity_no_thanks">Ne hvala</string>
   <string name="ExperienceUpgradeActivity_introducing_link_previews">Uvodjenje prethodnih pregleda linkova</string>
   <string name="ExperienceUpgradeActivity_optional_link_previews_are_now_supported">Od sada se može prikazati pregled linkova najpopularnijih saijtova interneta.</string>
-  <string name="ExperienceUpgradeActivity_you_can_disable_or_enable_this_feature_link_previews">Ovu funkciju možete onemogućiti ili omogućiti u bilo kojem trenutku u postavkama Signal-a (postavke Privatnost &gt; Slanje Pregleda Linkova).</string>
+  <string name="ExperienceUpgradeActivity_you_can_disable_or_enable_this_feature_link_previews">Ovu funkciju možete onemogućiti ili omogućiti u bilo kojem trenutku u postavkama Packmam-a (postavke Privatnost &gt; Slanje Pregleda Linkova).</string>
   <string name="ExperienceUpgradeActivity_got_it">Dohvaćeno</string>
   <!--GcmBroadcastReceiver-->
   <string name="GcmBroadcastReceiver_retrieving_a_message">Dobavljam poruku....</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Trajna greška u Signal komunikaciji!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal se nije uspješno registrirao na Google Play Services. Signal poruke i pozivi su onemogućeni, pokušajte se ponovno registrirati kroz Postavke &gt; Napredno.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Trajna greška u Packmam komunikaciji!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Packmam se nije uspješno registrirao na Google Play Services. Signal poruke i pozivi su onemogućeni, pokušajte se ponovno registrirati kroz Postavke &gt; Napredno.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Greška pri dohvaćanju GIFa pune rezolucije</string>
   <!--GiphyFragmentPageAdapter-->
@@ -343,15 +343,15 @@
   <string name="GroupCreateActivity_actionbar_edit_title">Uredi grupu</string>
   <string name="GroupCreateActivity_group_name_hint">Naziv grupe</string>
   <string name="GroupCreateActivity_actionbar_mms_title">Nova MMS grupa</string>
-  <string name="GroupCreateActivity_contacts_dont_support_push">Odabrali ste kontakt koji ne podržava Signal grupe, tako da će ovo biti MMS grupa.</string>
-  <string name="GroupCreateActivity_youre_not_registered_for_signal">Niste registrirani za Signal poruke i pozive, tako da su Signal grupe onemogućene. Pokušajte se ponovno registrirati u Postavke &gt; Napredno.</string>
+  <string name="GroupCreateActivity_contacts_dont_support_push">Odabrali ste kontakt koji ne podržava Packmam grupe, tako da će ovo biti MMS grupa.</string>
+  <string name="GroupCreateActivity_youre_not_registered_for_signal">Niste registrirani za Packmam poruke i pozive, tako da su Signal grupe onemogućene. Pokušajte se ponovno registrirati u Postavke &gt; Napredno.</string>
   <string name="GroupCreateActivity_contacts_no_members">Potrebna je barem jedna osoba u vašoj grupi!</string>
   <string name="GroupCreateActivity_contacts_invalid_number">Jedan od članova vaše grupe ima broj koji ne može biti ispravno pročitan. Ispravite ili uklonite taj kontakt i pokušajte ponovno.</string>
   <string name="GroupCreateActivity_avatar_content_description">Grupni avatar</string>
   <string name="GroupCreateActivity_menu_apply_button">Primjeni</string>
   <string name="GroupCreateActivity_creating_group">Stvaranje %1$s...</string>
   <string name="GroupCreateActivity_updating_group">Ažuriranje %1$s...</string>
-  <string name="GroupCreateActivity_cannot_add_non_push_to_existing_group">Nije moguće dodati %1$s jer nisu Signal korisnici.</string>
+  <string name="GroupCreateActivity_cannot_add_non_push_to_existing_group">Nije moguće dodati %1$s jer nisu Packmam korisnici.</string>
   <string name="GroupCreateActivity_loading_group_details">Učitavanje detalja grupe...</string>
   <string name="GroupCreateActivity_youre_already_in_the_group">Već ste u grupi.</string>
   <!--GroupShareProfileView-->
@@ -372,7 +372,7 @@
   <string name="InviteActivity_sending">Slanje...</string>
   <string name="InviteActivity_heart_content_description">Srce</string>
   <string name="InviteActivity_invitations_sent">Pozivnice poslane!</string>
-  <string name="InviteActivity_invite_to_signal">Pozovi u Signal</string>
+  <string name="InviteActivity_invite_to_signal">Pozovi u Packmam</string>
   <plurals name="InviteActivity_send_sms_to_friends">
     <item quantity="one">POŠALJI SMS %dPRIJATELJU</item>
     <item quantity="few">POŠALJI SMS %dPRIJATELJA</item>
@@ -383,7 +383,7 @@
     <item quantity="few">Pošalji %dSMS pozivnice?</item>
     <item quantity="other">Pošalji %dSMS pozivnica?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Prebacimo se na Signal %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Prebacimo se na Packmam %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Izgleda da nemate aplikacije s kojima je moguće dijeljenje.</string>
   <string name="InviteActivity_friends_dont_let_friends_text_unencrypted">Prijatelji paze da se njihovi prijatelji kriptirano dopisuju.</string>
   <!--Job-->
@@ -396,7 +396,7 @@
   <string name="LongMessageActivity_message_from_s">Poruka od %1$s</string>
   <string name="LongMessageActivity_your_message">Vaša poruka</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Signal</string>
+  <string name="MessageRetrievalService_signal">Packmam</string>
   <string name="MessageRetrievalService_background_connection_enabled">Pozadinska veza omogućena</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Greška pri čitanju MMS postavki od operatera</string>
@@ -418,9 +418,9 @@
   <string name="MediaOverviewActivity_Select_all">Odaberi sve</string>
   <string name="MediaOverviewActivity_collecting_attachments">Prikupljanje privitaka...</string>
   <!--- NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Signal poziv u tijeku</string>
-  <string name="NotificationBarManager__establishing_signal_call">Uspostavljanje Signal poziva</string>
-  <string name="NotificationBarManager__incoming_signal_call">Dolazni Signal poziv</string>
+  <string name="NotificationBarManager_signal_call_in_progress">Packmam poziv u tijeku</string>
+  <string name="NotificationBarManager__establishing_signal_call">Uspostavljanje Packmam poziva</string>
+  <string name="NotificationBarManager__incoming_signal_call">Dolazni Packmam poziv</string>
   <string name="NotificationBarManager__deny_call">Odbij poziv</string>
   <string name="NotificationBarManager__answer_call">Prihvati poziv</string>
   <string name="NotificationBarManager__end_call">Završi poziv</string>
@@ -440,8 +440,8 @@
   <string name="MediaSendActivity_message_to_s">Poruka za %s</string>
   <string name="MediaSendActivity_message">Poruka</string>
   <string name="MediaSendActivity_select_recipients">Odaberi primatelje</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Signal zahtjeva pristup vašim kontaktima kako bi ih mogao prikazati.</string>
-  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Signal zahtijeva dozvolu pristupa telefonskim kontaktima za pretraživanje vaših kontakta, no to je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup telefonskim kontaktima.</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Packmam zahtjeva pristup vašim kontaktima kako bi ih mogao prikazati.</string>
+  <string name="MediaSendActivity_signal_needs_contacts_permission_in_order_to_show_your_contacts_but_it_has_been_permanently_denied">Packmam zahtijeva dozvolu pristupa telefonskim kontaktima za pretraživanje vaših kontakta, no to je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup telefonskim kontaktima.</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="one">Ne možete dijeliti više od %dstavke.</item>
     <item quantity="few">Ne možete dijeliti više od %d stavki.</item>
@@ -451,7 +451,7 @@
   <!--MediaRepository-->
   <string name="MediaRepository_all_media">Svi mediji</string>
   <!--MessageRecord-->
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Primljena je poruka kriptirana starom inačicom Signal aplikacije koja više nije podržana. Molimo zapitajte pošiljatelja da ažurira na najnoviju inačicu aplikacije i ponovno pošalje poruku.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Primljena je poruka kriptirana starom inačicom Packmam aplikacije koja više nije podržana. Molimo zapitajte pošiljatelja da ažurira na najnoviju inačicu aplikacije i ponovno pošalje poruku.</string>
   <string name="MessageRecord_left_group">Napustili ste grupu.</string>
   <string name="MessageRecord_you_updated_group">Ažurirali ste grupu.</string>
   <string name="MessageRecord_you_called">Zvali ste</string>
@@ -461,7 +461,7 @@
   <string name="MessageRecord_s_called_you">%s vas je zvao</string>
   <string name="MessageRecord_called_s">Nazvao %s</string>
   <string name="MessageRecord_missed_call_from">Propušteni poziv od %s</string>
-  <string name="MessageRecord_s_joined_signal">%s je dostupan na Signalu!</string>
+  <string name="MessageRecord_s_joined_signal">%s je dostupan na Packmamu!</string>
   <string name="MessageRecord_you_disabled_disappearing_messages">Onemogućili ste nestajuće poruke.</string>
   <string name="MessageRecord_s_disabled_disappearing_messages">%1$s onemogućene nestajuće poruke.</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">Postavili ste vrijeme nestajanja poruka na %1$s.</string>
@@ -492,9 +492,9 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Neispravan QR kod.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">Imate previše registriranih uređaja, pokušajte ukloniti neke</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Žao nam je, ovo nije važeći QR kôd za povezivanje uređaja.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Poveži Signal uređaj?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Izgleda da pokušavate povezati Signal uređaj pomoću strane aplikacije. Za Vašu vlastitu sigurnost molimo skenirajte kôd ponovno unutar Signal aplikacije.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Signal zahtijeva pristup Kameri za skeniranje QR koda ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kamera\".</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">Poveži Packmam uređaj?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Izgleda da pokušavate povezati Packmam uređaj pomoću strane aplikacije. Za Vašu vlastitu sigurnost molimo skenirajte kôd ponovno unutar Signal aplikacije.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Packmam zahtijeva pristup Kameri za skeniranje QR koda ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kamera\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Nemoguće je skenirati QR kod bez dozvole pristupa Kameri.</string>
   <!--ExpirationDialog-->
   <string name="ExpirationDialog_disappearing_messages">Nestajuće poruke</string>
@@ -502,7 +502,7 @@
   <string name="ExpirationDialog_your_messages_will_disappear_s_after_they_have_been_seen">Primljene i poslane poruke u ovom razgovoru će nestati %s nakon što su viđene.</string>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Unesite lozinku</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal ikona</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">Packmam ikona</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Pošaljite lozinku</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Neispravna lozinka!</string>
   <!--PlacePickerActivity-->
@@ -559,7 +559,7 @@ telefona</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Broj koji ste unijeli
 (%s) je neispravan.</string>
   <string name="RegistrationActivity_missing_google_play_services">Google Play Services nije dostupan</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Na ovom uređaju Google Play Services nisu dostupne. I dalje možete koristiti Signal, ali ovo može rezultirati umanjenim performansama i pouzdanosti u radu.\n\nUkoliko niste napredni korisnik, ne koristite prilagođeni Android sustav ili mislite da vam se ovo upozorenje pojavljuje greškom, kontaktirajte support@signal.org kako bismo vam pokušali pomoći.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">Na ovom uređaju Google Play Services nisu dostupne. I dalje možete koristiti Packmam, ali ovo može rezultirati umanjenim performansama i pouzdanosti u radu.\n\nUkoliko niste napredni korisnik, ne koristite prilagođeni Android sustav ili mislite da vam se ovo upozorenje pojavljuje greškom, kontaktirajte support@packmam.org kako bismo vam pokušali pomoći.</string>
   <string name="RegistrationActivity_i_understand">Razumijem</string>
   <string name="RegistrationActivity_play_services_error">Play Services greška</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play Services se trenutno ažurira ili je nedostupno. Pokušajte ponovno kasnije.</string>
@@ -567,9 +567,9 @@ telefona</string>
   <string name="RegistrationActivity_no_browser">Nije moguće otvoriti poveznicu. Web preglednik nije pronađen.</string>
   <string name="RegistrationActivity_more_information">Više informacija</string>
   <string name="RegistrationActivity_less_information">Manje informacija</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Signal treba pristup vašim kontaktima i medijima da biste se  mogli konektirati  s prijateljima, razmjenjivati poruke, i obavljati zaštićene pozive</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Packmam treba pristup vašim kontaktima i medijima da biste se  mogli konektirati  s prijateljima, razmjenjivati poruke, i obavljati zaštićene pozive</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Nije se moguće povezati na servis. Provjerite svoju mrežnu konekciju i pokušajte ponovo.</string>
-  <string name="RegistrationActivity_to_easily_verify_your_phone_number_signal_can_automatically_detect_your_verification_code">Da biste lako mogli  potvrditi svoj telefonski broj, Signal može automatski da otkrije vaš verifikacijski kôd ako dozvolite Signal-u da prikaže SMS poruke.</string>
+  <string name="RegistrationActivity_to_easily_verify_your_phone_number_signal_can_automatically_detect_your_verification_code">Da biste lako mogli  potvrditi svoj telefonski broj, Packmam može automatski da otkrije vaš verifikacijski kôd ako dozvolite Signal-u da prikaže SMS poruke.</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Još %d korak do slanja zapisnika za otklanjanja pogrešaka.</item>
     <item quantity="few">Još%d koraka do slanja zapisnika za otklanjanja pogrešaka.</item>
@@ -598,13 +598,13 @@ telefona</string>
   <string name="SearchFragment_header_messages">Poruke</string>
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Dodaj u kontakte</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">Pozovi u Signal</string>
-  <string name="SharedContactDetailsActivity_signal_message">Signal poruka</string>
-  <string name="SharedContactDetailsActivity_signal_call">Signal poziv</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">Pozovi u Packmam</string>
+  <string name="SharedContactDetailsActivity_signal_message">Packmam poruka</string>
+  <string name="SharedContactDetailsActivity_signal_call">Packmam poziv</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Dodaj u kontakte</string>
-  <string name="SharedContactView_invite_to_signal">Pozovi u Signal</string>
-  <string name="SharedContactView_message">Signal poruka</string>
+  <string name="SharedContactView_invite_to_signal">Pozovi u Packmam</string>
+  <string name="SharedContactView_message">Packmam poruka</string>
   <!--Slide-->
   <string name="Slide_image">Slika</string>
   <string name="Slide_sticker">Stiker</string>
@@ -619,14 +619,14 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="SmsMessageRecord_secure_session_reset">Resetiranje sigurne sesije.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s resetiranje sigurne sesije.</string>
   <string name="SmsMessageRecord_duplicate_message">Dupla poruka.</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Poruku nije moguće obraditi jer je poslana novijom verzijom Signala. Ažurirajte vaš Signal i zatražite da vam se poruka ponovo pošalje.</string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Poruku nije moguće obraditi jer je poslana novijom verzijom Packmama. Ažurirajte vaš Signal i zatražite da vam se poruka ponovo pošalje.</string>
   <string name="SmsMessageRecord_error_handling_incoming_message">Pogreška prilikom upravljanja ulaznom porukom</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Naljepnice</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Instalirani stikeri</string>
   <string name="StickerManagementAdapter_stickers_you_received">Primljeni stikeri</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Umjetnička serija Signal-a.</string>
+  <string name="StickerManagementAdapter_signal_artist_series">Umjetnička serija Packmam-a.</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Nema instaliranih stikera</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">Stikeri primljenih poruka će se ovdje prikazat</string>
   <string name="StickerManagementAdapter_untitled">Bez naziva</string>
@@ -649,7 +649,7 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="ThreadRecord_media_message">Multimedijalna poruka</string>
   <string name="ThreadRecord_sticker">Stiker</string>
   <string name="ThreadRecord_disappearing_photo">Nestajuća fotografija</string>
-  <string name="ThreadRecord_s_is_on_signal">%s je dostupan na Signalu!</string>
+  <string name="ThreadRecord_s_is_on_signal">%s je dostupan na Packmamu!</string>
   <string name="ThreadRecord_disappearing_messages_disabled">Nestajuće poruke su isključene</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">Vrijeme nestajanja poruke postavljeno na %s</string>
   <string name="ThreadRecord_safety_number_changed">Sigurnosni broj je izmijenjen</string>
@@ -658,8 +658,8 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="ThreadRecord_you_marked_unverified">Označili ste nepotvrđenim</string>
   <string name="ThreadRecord_message_could_not_be_processed">Poruku nije moguće obraditi</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Signal ažuriranje</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Nova inačica Signala je dostupna, pritisnite za ažuriranje</string>
+  <string name="UpdateApkReadyListener_Signal_update">Packmam ažuriranje</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Nova inačica Packmama je dostupna, pritisnite za ažuriranje</string>
   <!--UnknownSenderView-->
   <string name="UnknownSenderView_block_s">Blokiraj %s?</string>
   <string name="UnknownSenderView_blocked_contacts_will_no_longer_be_able_to_send_you_messages_or_call_you">Blokirani kontakti vam više neće moći slati poruke ili vas zvati.</string>
@@ -674,14 +674,14 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="UnverifiedSendDialog_send_message">Pošalji poruku?</string>
   <string name="UnverifiedSendDialog_send">Pošalji</string>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Vaš kontakt koristi stariju Signal inačicu. Zamolite ih da ažuriraju Signal prije provjere sigurnosnog broja.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Vaš kontakt koristi noviju Signal inačicu s nekompatibilnim QR kod oblikom. Ažurirajte vašu inačicu kako biste usporedili.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Vaš kontakt koristi stariju Packmam inačicu. Zamolite ih da ažuriraju Signal prije provjere sigurnosnog broja.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Vaš kontakt koristi noviju Packmam inačicu s nekompatibilnim QR kod oblikom. Ažurirajte vašu inačicu kako biste usporedili.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Skenirani QR kod nije ispravno oblikovan sigurnosni broj za provjeru. Pokušajte ponovno skenirati broj.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Podijelite sigurnosni broj putem...</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Naš Signal sigurnosni broj:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Naš Packmam sigurnosni broj:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Izgleda da nemate aplikacije s kojima je moguće dijeljenje.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">Sigurnosni broj za usporedbu nije pronađen u međuspremniku</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Signal zahtijeva pristup Kameri za skeniranje QR koda ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kamera\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Packmam zahtijeva pristup Kameri za skeniranje QR koda ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"Kamera\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Nemoguće je skenirati QR kod bez dozvole pristupa kameri.</string>
   <!--ViewOnceMessageActivity-->
   <!--MessageDisplayHelper-->
@@ -702,13 +702,13 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Pritisnite za otvaranje.</string>
   <string name="KeyCachingService_signal_passphrase_cached_with_lock">Pritisnite za otvaranje ili pritisnite lokot za zatvaranje.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal je otključan</string>
-  <string name="KeyCachingService_lock">Zaključaj Signal</string>
+  <string name="KeyCachingService_passphrase_cached">Packmam je otključan</string>
+  <string name="KeyCachingService_lock">Zaključaj Packmam</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vi</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Nepodržani tip medija</string>
   <string name="MediaPreviewActivity_draft">Skica</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal zahtjeva pristup pohrani kako bi se omogućilo zapisivanje podataka na vanjski medij, ali je trajno odbijeno. Molimo nastavite do opcija aplikacije, odaberite \"Dozvole\", i uključite \"Pohrana\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Packmam zahtjeva pristup pohrani kako bi se omogućilo zapisivanje podataka na vanjski medij, ali je trajno odbijeno. Molimo nastavite do opcija aplikacije, odaberite \"Dozvole\", i uključite \"Pohrana\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Nije moguće spremanje na vanjski medij bez dozvola</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Obriši poruku?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Radnja će trajno izbrisati ovu poruku.</string>
@@ -726,10 +726,10 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="MessageNotifier_sticker">Stiker</string>
   <string name="MessageNotifier_disappearing_photo">Nestajuća fotografija</string>
   <string name="MessageNotifier_reply">Odgovori</string>
-  <string name="MessageNotifier_signal_message">Signal poruka</string>
+  <string name="MessageNotifier_signal_message">Packmam poruka</string>
   <string name="MessageNotifier_unsecured_sms">Nesigurni SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Možda imate nove poruke</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Otvorite Signal za provjeru nedavnih obavijesti.</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Otvorite Packmam za provjeru nedavnih obavijesti.</string>
   <string name="MessageNotifier_contact_message">%1$s%2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Kontakt</string>
   <!--Notification Channels-->
@@ -743,7 +743,7 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="NotificationChannel_group_messages">Poruke</string>
   <string name="NotificationChannel_missing_display_name">Nepoznato</string>
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Brzi odgovor nije dostupan kada je Signal zaključan!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Brzi odgovor nije dostupan kada je Packmam zaključan!</string>
   <string name="QuickResponseService_problem_sending_message">Greška prilikom slanja poruke!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Spremljeno u %s</string>
@@ -754,7 +754,7 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Nevažeći prečac</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">Packmam</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Nova poruka</string>
   <!--TransferControlView-->
   <plurals name="TransferControlView_n_items">
@@ -764,14 +764,14 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   </plurals>
   <!--UnauthorizedReminder-->
   <string name="UnauthorizedReminder_device_no_longer_registered">Uređaj više nije registriran</string>
-  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">To je vjerovatno jer ste registirali Vaš telefonski broj sa Signal-om na drugom uređaju. Dodirnite za ponovnu registraciju.</string>
+  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">To je vjerovatno jer ste registirali Vaš telefonski broj sa Packmam-om na drugom uređaju. Dodirnite za ponovnu registraciju.</string>
   <!--VideoPlayer-->
   <string name="VideoPlayer_error_playing_video">Greška pri video reprodukciji</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Da biste odgovorili na poziv od %s, dozvolite Signal pristup vašem mikrofonu.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Signal zahtijeva dozvolu pristupa mikrofonu i kameri za upućivanje ​​ili primanje poziva, no obadvoje je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup \"Mikrofonu\" i \"Kameri\".</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">Da biste odgovorili na poziv od %s, dozvolite Packmam pristup vašem mikrofonu.</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Packmam zahtijeva dozvolu pristupa mikrofonu i kameri za upućivanje ​​ili primanje poziva, no obadvoje je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup \"Mikrofonu\" i \"Kameri\".</string>
   <!--WebRtcCallScreen-->
-  <string name="WebRtcCallScreen_new_safety_numbers">Sigurnosni broj za vaš razgovor s %1$s je izmjenjen. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da je %2$s jednostavno ponovno instalirao Signal.</string>
+  <string name="WebRtcCallScreen_new_safety_numbers">Sigurnosni broj za vaš razgovor s %1$s je izmjenjen. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da je %2$s jednostavno ponovno instalirao Packmam.</string>
   <string name="WebRtcCallScreen_you_may_wish_to_verify_this_contact">Možda biste trebali provjeriti sigurnosni broj za ovaj kontakt.</string>
   <string name="WebRtcCallScreen_new_safety_number_title">Novi sigurnosni broj</string>
   <string name="WebRtcCallScreen_accept">Prihvati</string>
@@ -805,7 +805,7 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="change_passphrase_activity__repeat_new_passphrase">Ponovite novu lozinku</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">Unesite ime ili broj</string>
-  <string name="contact_selection_activity__invite_to_signal">Pozovi u Signal</string>
+  <string name="contact_selection_activity__invite_to_signal">Pozovi u Packmam</string>
   <!--contact_filter_toolbar-->
   <!--contact_selection_group_activity-->
   <string name="contact_selection_group_activity__no_contacts">Nema kontakata.</string>
@@ -813,15 +813,15 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Slika kontakta</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Signal zahtijeva dozvolu pristupa telefonskim kontaktima za prikaz vaših kontakta, no to je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup telefonskim kontaktima.</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Packmam zahtijeva dozvolu pristupa telefonskim kontaktima za prikaz vaših kontakta, no to je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup telefonskim kontaktima.</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Greška kod dobavljana kontakta, provjerite vašu mrežnu konekciju</string>
   <!--blocked_contacts_fragment-->
   <string name="blocked_contacts_fragment__no_blocked_contacts">Nema blokiranih kontakata</string>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Signal zahtjeva pristup vašim kontaktima kako bi ih mogao prikazati.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Packmam zahtjeva pristup vašim kontaktima kako bi ih mogao prikazati.</string>
   <string name="contact_selection_list_fragment__show_contacts">Prikaži kontakte</string>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Signal poruka</string>
+  <string name="conversation_activity__type_message_push">Packmam poruka</string>
   <string name="conversation_activity__type_message_sms_insecure">Nesigurni SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Nesigurni MMS</string>
   <string name="conversation_activity__from_sim_name">Od %1$s</string>
@@ -833,7 +833,7 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Uključi/isključi ladicu brze kamere</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Snimi i pošalji audio privitak</string>
   <string name="conversation_activity__quick_attachment_drawer_lock_record_description">Zabrani snimanje audio priloška</string>
-  <string name="conversation_activity__enable_signal_for_sms">Omogući Signal za SMS</string>
+  <string name="conversation_activity__enable_signal_for_sms">Omogući Packmam za SMS</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Kliznite za otkazivanje</string>
   <string name="conversation_input_panel__cancel">Odustani</string>
@@ -911,9 +911,9 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="IdentityUtil_unverified_banner_one">Vaš sigurnosni broj s %s je izmijenjen i više nije potvrđen</string>
   <string name="IdentityUtil_unverified_banner_two">Vaši sigurnosni brojevi s %1$s i %2$s nisu više potvrđeni</string>
   <string name="IdentityUtil_unverified_banner_many">Vaši sigurnosni brojevi s %1$s, %2$s i %3$s nisu više potvrđeni</string>
-  <string name="IdentityUtil_unverified_dialog_one">Vaš sigurnosni broj za %1$s je izmjenjen i nije više potvrđen. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da je %1$s jednostavno ponovno instalirao Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_two">Vaš sigurnosni brojevi s %1$s i %2$s su izmjenjeni i nisu više potvrđeni. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da su jednostavno ponovno instalirali Signal.</string>
-  <string name="IdentityUtil_unverified_dialog_many">Vaš sigurnosni brojevi s %1$s, %2$s i %3$s su izmjenjeni i nisu više potvrđeni. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da su jednostavno ponovno instalirali Signal.</string>
+  <string name="IdentityUtil_unverified_dialog_one">Vaš sigurnosni broj za %1$s je izmjenjen i nije više potvrđen. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da je %1$s jednostavno ponovno instalirao Packmam.</string>
+  <string name="IdentityUtil_unverified_dialog_two">Vaš sigurnosni brojevi s %1$s i %2$s su izmjenjeni i nisu više potvrđeni. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da su jednostavno ponovno instalirali Packmam.</string>
+  <string name="IdentityUtil_unverified_dialog_many">Vaš sigurnosni brojevi s %1$s, %2$s i %3$s su izmjenjeni i nisu više potvrđeni. Ovo može značiti da netko pokušava presresti vašu komunikaciju ili da su jednostavno ponovno instalirali Packmam.</string>
   <string name="IdentityUtil_untrusted_dialog_one">Vaš sigurnosni broj s %s je upravo izmjenjen.</string>
   <string name="IdentityUtil_untrusted_dialog_two">Vaši sigurnosni brojevi s %1$s i %2$s su upravo izmjenjeni.</string>
   <string name="IdentityUtil_untrusted_dialog_many">Vaši sigurnosni brojevi s %1$s, %2$s i %3$s su upravo izmjenjeni.</string>
@@ -945,7 +945,7 @@ Primljena poruka razmjene ključeva za pogrešnu inačicu protokola.</string>
   <string name="log_submit_activity__please_review_this_log_from_my_app">Molim pregledajte zapis moje aplikacije: %1$s</string>
   <string name="log_submit_activity__network_failure">Greška kod mreže. Molimo pokušajte ponovo.</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Želite li uvesti vaše postojeće tekst poruke u kriptiranu Signal bazu podataka?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Želite li uvesti vaše postojeće tekst poruke u kriptiranu Packmam bazu podataka?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">Zadana sistemska baza podataka neće biti izmjenjena na bilo koji način.</string>
   <string name="database_migration_activity__skip">Preskoči</string>
   <string name="database_migration_activity__import">Uvoz</string>
@@ -977,7 +977,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Otključaj</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal zahtjeva MMS postavke kako bi dostavio multimedijalne ili grupne poruke preko vašeg operatera. Vaš uređaj nije ove informacije učinio dostupnima, što se ponekad događa kod zaključanih uređaja ili drugih ograničenih postavki.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Packmam zahtjeva MMS postavke kako bi dostavio multimedijalne ili grupne poruke preko vašeg operatera. Vaš uređaj nije ove informacije učinio dostupnima, što se ponekad događa kod zaključanih uređaja ili drugih ograničenih postavki.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Kako biste slali multimedijalne i grupne poruke, pritisnite \'OK\' i popunite tražene postavke. MMS postavke za Vašeg operatera obično se mogu naći tražeći \'APN vašeg operatera\'. Ovo je potrebno učiniti samo jednom.</string>
   <!--profile_create_activity-->
   <string name="profile_create_activity__set_later">Postavi kasnije</string>
@@ -1000,10 +1000,10 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="recipient_preferences__call_settings">Postavke poziva</string>
   <string name="recipient_preferences__ringtone">Melodija</string>
   <!--- redphone_call_controls-->
-  <string name="redphone_call_card__signal_call">Signal poziv</string>
+  <string name="redphone_call_card__signal_call">Packmam poziv</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFONSKI BROJ</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal olakšava komunikaciju koristeći postojeće telefonske brojeve iz vašeg imenika. Prijatelji i kontakti koji već znaju vaš broj telefona će biti u mogućnosti lako vas kontaktirati putem Signala.\n\nRegistracija šalje neke kontakt podatke na poslužitelj, ali se oni ne spremaju.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Packmam olakšava komunikaciju koristeći postojeće telefonske brojeve iz vašeg imenika. Prijatelji i kontakti koji već znaju vaš broj telefona će biti u mogućnosti lako vas kontaktirati putem Signala.\n\nRegistracija šalje neke kontakt podatke na poslužitelj, ali se oni ne spremaju.</string>
   <string name="registration_activity__verify_your_number">Potvrdite vaš broj</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Unesite vaš mobilni broj da biste primili kontrolni kod putem SMS-a. Ovisno o vašoj tarifi, primanje SMS poruka može biti povezano troškovima.</string>
   <!--recipients_panel-->
@@ -1015,7 +1015,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="unknown_sender_view__add_to_contacts">DODAJ U KONTAKTE</string>
   <string name="unknown_sender_view__don_t_add_but_make_my_profile_visible">NEMOJ DODATI, ALI UČINI VIDLJIVIM MOJ PROFIL</string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ukoliko želite provjeriti sigurnost vašeg kriptiranja s%s, usporedite brojeve koje vidite iznad s brojevima na drugom uređaju. Ili možete skenirati kod s drugog telefona ili drugog zamoliti da skenira kod s vašeg telefona. <a href="https://signal.org/redirect/safety-numbers">Saznajte više.</a>]]></string>
+  <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ukoliko želite provjeriti sigurnost vašeg kriptiranja s%s, usporedite brojeve koje vidite iznad s brojevima na drugom uređaju. Ili možete skenirati kod s drugog telefona ili drugog zamoliti da skenira kod s vašeg telefona. <a href="https://packmam.org/redirect/safety-numbers">Saznajte više.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Pritisnite za skeniranje</string>
   <string name="verify_display_fragment__loading">Učitavanje...</string>
   <string name="verify_display_fragment__verified">Provjereno</string>
@@ -1076,8 +1076,8 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="preferences__sms_mms">SMS i MMS</string>
   <string name="preferences__pref_all_sms_title">Primi sve SMS</string>
   <string name="preferences__pref_all_mms_title">Primi sve MMS</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Koristi Signal za sve dolazne tekst poruke</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Koristi Signal za sve dolazne multimedija poruke</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Koristi Packmam za sve dolazne tekst poruke</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Koristi Packmam za sve dolazne multimedija poruke</string>
   <string name="preferences__pref_enter_sends_title">Enter šalje poruku</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Pritisak na Enter će poslati tekst poruku</string>
   <string name="preferences__send_link_previews">Šalji prethodne preglede linkova</string>
@@ -1087,10 +1087,10 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="preferences__change_passphrase">Izmjeni lozinku</string>
   <string name="preferences__change_your_passphrase">Izmijenite Vašu lozinku</string>
   <string name="preferences__enable_passphrase">Omogući zaključavanje ekrana lozinkom</string>
-  <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Zaključaj Signal i obavijesti o porukama s lozinkom</string>
+  <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Zaključaj Packmam i obavijesti o porukama s lozinkom</string>
   <string name="preferences__screen_security">Sigurnost ekrana</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Onemogući snimanje ekrana na popisu nedavnih i unutar aplikacije</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Automatski zaključaj Signal nakon određenog vremenskog intervala neaktivnosti</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Automatski zaključaj Packmam nakon određenog vremenskog intervala neaktivnosti</string>
   <string name="preferences__inactivity_timeout_passphrase">Lozinka neaktivnosti</string>
   <string name="preferences__inactivity_timeout_interval">Interval neaktivnosti</string>
   <string name="preferences__notifications">Obavijesti</string>
@@ -1143,8 +1143,8 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="preferences__theme">Teme</string>
   <string name="preferences__default">Zadano</string>
   <string name="preferences__language">Jezik</string>
-  <string name="preferences__signal_messages_and_calls">Signal poruke i pozivi</string>
-  <string name="preferences__free_private_messages_and_calls">Besplatne privatne poruke i pozivi sa Signal korisnicima</string>
+  <string name="preferences__signal_messages_and_calls">Packmam poruke i pozivi</string>
+  <string name="preferences__free_private_messages_and_calls">Besplatne privatne poruke i pozivi sa Packmam korisnicima</string>
   <string name="preferences__submit_debug_log">Pošalji debug zapis</string>
   <string name="preferences__support_wifi_calling">\'WiFi Calling\' način kompatibilnosti</string>
   <string name="preferences__enable_if_your_device_supports_sms_mms_delivery_over_wifi">Omogućite ukoliko vaš uređaj koristi SMS/MMS isporuku preko WiFi (omogućite jedino kada je \'WiFi pozivanje\' omogućeno na vašem uređaju)</string>
@@ -1161,8 +1161,8 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="preferences_chats__media_auto_download">Automatsko preuzimanje media sadržaja</string>
   <string name="preferences_chats__message_trimming">Skraćivanje poruke</string>
   <string name="preferences_advanced__use_system_emoji">Koristi emotikone sustava</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Onemogući ugrađenu Signal podršku za emotikone</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Preusmjeri sve pozive kroz Signal poslužitelj kako biste izbjegli otkrivanje svoje IP adrese vašem kontaktu. Ukoliko ovo omogućite smanjit će se kvaliteta poziva.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Onemogući ugrađenu Packmam podršku za emotikone</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Preusmjeri sve pozive kroz Packmam poslužitelj kako biste izbjegli otkrivanje svoje IP adrese vašem kontaktu. Ukoliko ovo omogućite smanjit će se kvaliteta poziva.</string>
   <string name="preferences_advanced__always_relay_calls">Uvijek preusmjeri pozive</string>
   <string name="preferences_app_protection__app_access">Pristup aplikaciji</string>
   <string name="preferences_app_protection__communication">Komunikacija</string>
@@ -1174,9 +1174,9 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="preferences_notifications__calls">Pozivi</string>
   <string name="preferences_notifications__ringtone">Melodija</string>
   <string name="preferences_chats__show_invitation_prompts">Prikaži upite za pozivnice</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Prikaži upite za pozivnice za kontakte koji ne koriste Signal</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Prikaži upite za pozivnice za kontakte koji ne koriste Packmam</string>
   <string name="preferences_chats__message_text_size">Veličina fonta poruke</string>
-  <string name="preferences_events__contact_joined_signal">Kontakt se prijavio/la u Signal</string>
+  <string name="preferences_events__contact_joined_signal">Kontakt se prijavio/la u Packmam</string>
   <string name="preferences_notifications__priority">Prioritet</string>
   <string name="preferences_communication__category_sealed_sender">Zatvoreni pošiljatelj</string>
   <string name="preferences_communication__sealed_sender_display_indicators">Pokazivači zaslona</string>
@@ -1192,7 +1192,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Nazovi</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Signal poziv</string>
+  <string name="conversation_callable_secure__menu_call">Packmam poziv</string>
   <!--conversation_context-->
   <string name="conversation_context__menu_message_details">Detalji poruke</string>
   <string name="conversation_context__menu_copy_text">Kopiraj tekst</string>
@@ -1256,27 +1256,27 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="verify_display_fragment_context_menu__copy_to_clipboard">Kopiraj u međuspremnik</string>
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Usporedi s međuspremnikom</string>
   <!--reminder_header-->
-  <string name="reminder_header_outdated_build">Vaša Signal inačica je istekla!</string>
+  <string name="reminder_header_outdated_build">Vaša Packmam inačica je istekla!</string>
   <plurals name="reminder_header_outdated_build_details">
-    <item quantity="one">Vaša verzija Signala ističe za %d dan. Dodirnite za ažuriranje najnovije verzije.</item>
-    <item quantity="few">Vaša verzija Signala ističe za %d dana. Dodirnite za ažuriranje najnovije verzije.</item>
-    <item quantity="other">Vaša verzija Signal-a ističe za %d dana. Dodirnite za ažuriranje najnovije verzije.</item>
+    <item quantity="one">Vaša verzija Packmama ističe za %d dan. Dodirnite za ažuriranje najnovije verzije.</item>
+    <item quantity="few">Vaša verzija Packmama ističe za %d dana. Dodirnite za ažuriranje najnovije verzije.</item>
+    <item quantity="other">Vaša verzija Packmam-a ističe za %d dana. Dodirnite za ažuriranje najnovije verzije.</item>
   </plurals>
-  <string name="reminder_header_outdated_build_details_today">Vaša će verzija Signala isteći danas. Dodirnite za ažuriranje na najnoviju inačicu.</string>
-  <string name="reminder_header_expired_build">Vaša je verzija Signala istekla!</string>
+  <string name="reminder_header_outdated_build_details_today">Vaša će verzija Packmama isteći danas. Dodirnite za ažuriranje na najnoviju inačicu.</string>
+  <string name="reminder_header_expired_build">Vaša je verzija Packmama istekla!</string>
   <string name="reminder_header_expired_build_details">Poruke više neće moći biti uspješno poslane. Pritisnite za ažuriranje na najnoviju inačicu.</string>
   <string name="reminder_header_sms_default_title">Koristi kao zadanu SMS aplikaciju</string>
-  <string name="reminder_header_sms_default_text">Pritisnite kako biste postavili Signal kao zadanu SMS aplikaciju.</string>
+  <string name="reminder_header_sms_default_text">Pritisnite kako biste postavili Packmam kao zadanu SMS aplikaciju.</string>
   <string name="reminder_header_sms_import_title">Uvezi SMS poruke sustava</string>
-  <string name="reminder_header_sms_import_text">Dodirnite za uvoz postojećih tekstualnih poruka u Signal kriptiranu bazu podataka?</string>
-  <string name="reminder_header_push_title">Omogući Signal poruke i pozive</string>
+  <string name="reminder_header_sms_import_text">Dodirnite za uvoz postojećih tekstualnih poruka u Packmam kriptiranu bazu podataka?</string>
+  <string name="reminder_header_push_title">Omogući Packmam poruke i pozive</string>
   <string name="reminder_header_push_text">Nadogradi svoje iskustvo komuniciranja.</string>
-  <string name="reminder_header_invite_title">Pozovi u Signal</string>
+  <string name="reminder_header_invite_title">Pozovi u Packmam</string>
   <string name="reminder_header_invite_text">Dovedite svoj razgovor s %1$s na sljedeću razinu.</string>
   <string name="reminder_header_share_title">Pozovi svoje prijatelje!</string>
-  <string name="reminder_header_share_text">Što više prijatelja koriste Signal, to bolje.</string>
-  <string name="reminder_header_service_outage_text">Signal ima tehničkih poteškoća. Naporno radimo kako bismo vratili uslugu što brže.</string>
-  <string name="reminder_header_the_latest_signal_features_wont_work">Najnovije funkcije Signal-a neće raditi na ovoj verziji Androida. Nadogradite ovaj uređaj da biste primali buduća ažuriranja Signal-a.</string>
+  <string name="reminder_header_share_text">Što više prijatelja koriste Packmam, to bolje.</string>
+  <string name="reminder_header_service_outage_text">Packmam ima tehničkih poteškoća. Naporno radimo kako bismo vratili uslugu što brže.</string>
+  <string name="reminder_header_the_latest_signal_features_wont_work">Najnovije funkcije Packmam-a neće raditi na ovoj verziji Androida. Nadogradite ovaj uređaj da biste primali buduća ažuriranja Signal-a.</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Spremi</string>
   <string name="media_preview__forward_title">Naprijed</string>
@@ -1297,16 +1297,16 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="ConversationListFragment_loading">Učitavanje...</string>
   <string name="CallNotificationBuilder_connecting">Povezivanje...</string>
   <string name="Permissions_permission_required">Potrebna je dozvola</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Signal zahtijeva dozvolu pristupa SMS porukama da može sam slati SMS poruke, ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Packmam zahtijeva dozvolu pristupa SMS porukama da može sam slati SMS poruke, ali pristup biva odbijen. Molim otvorite opcije aplikacije, odaberite \"Dozvole\" i uključite \"SMS\".</string>
   <string name="Permissions_continue">Nastavi</string>
   <string name="Permissions_not_now">Ne sada</string>
-  <string name="ConversationListActivity_signal_needs_contacts_permission_in_order_to_search_your_contacts_but_it_has_been_permanently_denied">Signal zahtijeva dozvolu pristupa telefonskim kontaktima za pretraživanje vaših kontakta, no to je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup telefonskim kontaktima.</string>
+  <string name="ConversationListActivity_signal_needs_contacts_permission_in_order_to_search_your_contacts_but_it_has_been_permanently_denied">Packmam zahtijeva dozvolu pristupa telefonskim kontaktima za pretraživanje vaših kontakta, no to je trajno odbijeno. Otvorite opcije aplikacije, odaberite \"Dozvole\" i odobrite pristup telefonskim kontaktima.</string>
   <string name="conversation_activity__enable_signal_messages">OMOGUĆI SIGNAL PORUKE</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">Migracija Signal datoteke</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">Migracija Packmam datoteke</string>
   <string name="PushDecryptJob_new_locked_message">Nova zaključana poruka</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">Otključaj za prikaz čekajućih poruka</string>
   <string name="ExperienceUpgradeActivity_unlock_to_complete_update">Otključaj da se završi ažuriranje</string>
-  <string name="ExperienceUpgradeActivity_please_unlock_signal_to_complete_update">Otključaj Signal da se završi ažuriranje</string>
+  <string name="ExperienceUpgradeActivity_please_unlock_signal_to_complete_update">Otključaj Packmam da se završi ažuriranje</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">Spremi sigurnosnu kopiju lozinke</string>
   <string name="backup_enable_dialog__backups_will_be_saved_to_external_storage_and_encrypted_with_the_passphrase_below_you_must_have_this_passphrase_in_order_to_restore_a_backup">Sigurnosne kopije bit će spremljene u vanjsku pohranu i šifrirane pomoću lozinke u nastavku. Da biste vratili sigurnosnu kopiju, morate imati tu lozinku.</string>
   <string name="backup_enable_dialog__i_have_written_down_this_passphrase">Zapisao sam ovu lozinku. Bez nje neću moći vratiti sigurnosnu kopiju.</string>
@@ -1318,7 +1318,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="preferences_chats__create_backup">Stvori sigurnosnu kopiju</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Unesi lozinku za sigurnosnu kopiju</string>
   <string name="RegistrationActivity_restore">Vrati</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Nije moguće učitati sigurnosne kopije iz novijih verzija Signal-a</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Nije moguće učitati sigurnosne kopije iz novijih verzija Packmam-a</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Netočna lozinka za sigurnosnu kopiju</string>
   <string name="RegistrationActivity_checking">Provjera...</string>
   <string name="RegistrationActivity_d_messages_so_far">%d poruka dosad...</string>
@@ -1333,7 +1333,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="BackupDialog_disable_and_delete_all_local_backups">Deaktiviraj i poništi sve sigurnosne kopije?</string>
   <string name="BackupDialog_delete_backups_statement">Poništi sigurnosne kopije?</string>
   <string name="BackupDialog_copied_to_clipboard">Kopirano u međuspremnik</string>
-  <string name="ChatsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Signal zahtjeva pristup vanjskoj pohrani kako bi se omogućilo spremanje sigurnosnih kopija, no to je trajno odbijeno. Molimo nastavite do opcija aplikacije, odaberite \"Dozvole\", i uključite \"Pohrana\".</string>
+  <string name="ChatsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Packmam zahtjeva pristup vanjskoj pohrani kako bi se omogućilo spremanje sigurnosnih kopija, no to je trajno odbijeno. Molimo nastavite do opcija aplikacije, odaberite \"Dozvole\", i uključite \"Pohrana\".</string>
   <string name="ChatsPreferenceFragment_last_backup_s">Zadnja sigurnosna kopija: %s</string>
   <string name="ChatsPreferenceFragment_in_progress">U toku</string>
   <string name="LocalBackupJob_creating_backup">Stvaranje sigurnosne kopije...</string>
@@ -1344,7 +1344,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="BackupUtil_never">Nikada</string>
   <string name="BackupUtil_unknown">Nepoznato</string>
   <string name="preferences_app_protection__screen_lock">Zaključavanje zaslona</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Zaključi pristup Signal-u putem zaključavanjem ekrana Androida ili otiska prsta.</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Zaključi pristup Packmam-u putem zaključavanjem ekrana Androida ili otiska prsta.</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Zaključaj zaslon nakon</string>
   <string name="AppProtectionPreferenceFragment_none">Niti jedna</string>
   <string name="registration_activity__the_registration_lock_pin_is_not_the_same_as_the_sms_verification_code_you_just_received_please_enter_the_pin_you_previously_configured_in_the_application">PIN za zaključavanje registracije nije isti kao kod za provjeru, što ste upavo primili SMS-om. Unesite PIN koji ste prethodno konfigurirali u aplikaciji.</string>
@@ -1355,7 +1355,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="registration_lock_dialog_view__confirm_pin">Potvrdi PIN</string>
   <string name="registration_lock_reminder_view__enter_your_registration_lock_pin">Unesite svoj registracijski PIN</string>
   <string name="registration_lock_reminder_view__enter_pin">Unesi PIN</string>
-  <string name="preferences_app_protection__enable_a_registration_lock_pin_that_will_be_required">Za povećanu sigurnost, omogućite PIN registracijskog zaključavanja koji će biti potreban da bi ovaj broj ponovno registririrali na Signal.</string>
+  <string name="preferences_app_protection__enable_a_registration_lock_pin_that_will_be_required">Za povećanu sigurnost, omogućite PIN registracijskog zaključavanja koji će biti potreban da bi ovaj broj ponovno registririrali na Packmam.</string>
   <string name="preferences_app_protection__registration_lock_pin">PIN za zaključavanje registracije</string>
   <string name="preferences_app_protection__registration_lock">Zaključavanje registracije</string>
   <string name="RegistrationActivity_you_must_enter_your_registration_lock_PIN">Morate unijeti vaš PIN registracijskog zaključavanja</string>
@@ -1364,13 +1364,13 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="RegistrationActivity_you_have_made_too_many_incorrect_registration_lock_pin_attempts_please_try_again_in_a_day">Previše neuspjelih pokušaja provjere PIN-a za registraciju. Molimo pokušajte ponovo za jedan dan.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Greška pri povezivanju servisom</string>
   <string name="RegistrationActivity_oh_no">O ne!</string>
-  <string name="RegistrationActivity_registration_of_this_phone_number_will_be_possible_without_your_registration_lock_pin_after_seven_days_have_passed">Registracija ovog telefonskog broja biti će moguća bez vašeg registracijskog PIN-a nakon 7 dana od posljednje aktivacije ovog broja na Signal. Preostalo vam je %ddana.</string>
+  <string name="RegistrationActivity_registration_of_this_phone_number_will_be_possible_without_your_registration_lock_pin_after_seven_days_have_passed">Registracija ovog telefonskog broja biti će moguća bez vašeg registracijskog PIN-a nakon 7 dana od posljednje aktivacije ovog broja na Packmam. Preostalo vam je %ddana.</string>
   <string name="RegistrationActivity_registration_lock_pin">PIN registracijskog zaključavanja</string>
   <string name="RegistrationActivity_this_phone_number_has_registration_lock_enabled_please_enter_the_registration_lock_pin">Ovaj telefonski broj ima omogućeno registracijsko zaključavanje. Molimo unesite PIN registracijskog zaključavanja.</string>
-  <string name="RegistrationLockDialog_registration_lock_is_enabled_for_your_phone_number">Zaključavanje registracije omogućeno je za vaš telefonski broj. Da si olakšate zapamtite PIN registracijskog zaključavanja, Signal će povremeno tražiti da ga potvrdite.</string>
+  <string name="RegistrationLockDialog_registration_lock_is_enabled_for_your_phone_number">Zaključavanje registracije omogućeno je za vaš telefonski broj. Da si olakšate zapamtite PIN registracijskog zaključavanja, Packmam će povremeno tražiti da ga potvrdite.</string>
   <string name="RegistrationLockDialog_i_forgot_my_pin">Zaboravio/la sam PIN.</string>
   <string name="RegistrationLockDialog_forgotten_pin">Zaboravljen PIN?</string>
-  <string name="RegistrationLockDialog_registration_lock_helps_protect_your_phone_number_from_unauthorized_registration_attempts">Registracijsko zaključavanje pomaže u zaštiti vašeg telefonskog broja od neovlaštenih pokušaja registracije. Ova značajka se u svakom trenutku može onemogućiti u vašim Signal postavkama privatnosti.</string>
+  <string name="RegistrationLockDialog_registration_lock_helps_protect_your_phone_number_from_unauthorized_registration_attempts">Registracijsko zaključavanje pomaže u zaštiti vašeg telefonskog broja od neovlaštenih pokušaja registracije. Ova značajka se u svakom trenutku može onemogućiti u vašim Packmam postavkama privatnosti.</string>
   <string name="RegistrationLockDialog_registration_lock">Zaključavanje registracije</string>
   <string name="RegistrationLockDialog_enable">Omogući</string>
   <string name="RegistrationLockDialog_the_registration_lock_pin_must_be_at_least_four_digits">Registracijski PIN za zaključavanje mora biti najmanje 4 broja.</string>
@@ -1379,7 +1379,7 @@ Uvezi nekriptiranu kopiju. Kompatibilno s \'SMSBackup And Restore\'.</string>
   <string name="RegistrationLockDialog_disable_registration_lock_pin">Onemogućiti PIN registracijskog zaključavanja?</string>
   <string name="RegistrationLockDialog_disable">Onemogući</string>
   <string name="preferences_chats__backups">Sigurnosne kopije</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Signal je zaključan</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">Packmam je zaključan</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">DODIRNI ZA OTKLJUČAVANJE</string>
   <string name="RegistrationLockDialog_reminder">Podsjetnik:</string>
   <string name="recipient_preferences__about">O aplikaciji</string>
