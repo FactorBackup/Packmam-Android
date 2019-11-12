@@ -12,7 +12,7 @@
                android:layout_height="75dp"
                android:indeterminate="true"
                android:padding="10dp"
-               android:layout_centerInParent="true"
+               android:layout_alignParentBottom="true"
                style="?android:attr/progressBarStyleLargeInverse"/>
 
   <ImageView android:id="@+id/watermark"
@@ -20,8 +20,8 @@
              android:layout_height="wrap_content"
              android:layout_centerHorizontal="true"
              android:layout_marginBottom="20dp"
-             android:layout_above="@id/passphrase_edit"
              android:src="@drawable/icon_transparent"
+             android:layout_centerInParent="true"
              android:contentDescription="@string/PassphrasePromptActivity_watermark_content_description"/>
 
 </RelativeLayout>
