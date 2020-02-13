@@ -167,6 +167,8 @@ class EmojiProvider {
                         paint);
     }
 
+
+
     @TargetApi(VERSION_CODES.HONEYCOMB_MR1)
     public void setBitmap(Bitmap bitmap) {
       Util.assertMainThread();
@@ -181,9 +183,12 @@ class EmojiProvider {
       return PixelFormat.TRANSLUCENT;
     }
 
-    @Override
-    public void setAlpha(int alpha) { }
+  /*  @Override
+    public void (int alpha) { }*/
+  @Override
+  public void setAlpha(int i) {
 
+  }
     @Override
     public void setColorFilter(ColorFilter cf) { }
   }
