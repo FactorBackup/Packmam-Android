@@ -118,10 +118,11 @@ public class ConversationListFragment extends Fragment
   private TextView                    emptySearch;
   private PulsingFloatingActionButton fab;
   private PulsingFloatingActionButton cameraFab;
-  private PulsingFloatingActionButton packmamFab;
+  private PulsingFloatingActionButton translatorFab;
+  /*private PulsingFloatingActionButton packmamFab;
   private PulsingFloatingActionButton walletFab;
   private PulsingFloatingActionButton shopFab;
-  private PulsingFloatingActionButton chatbotFab;
+  private PulsingFloatingActionButton chatbotFab;*/
   private Locale                      locale;
   private String                      queryFilter  = "";
   private boolean                     archive;
@@ -141,10 +142,11 @@ public class ConversationListFragment extends Fragment
     list         = ViewUtil.findById(view, R.id.list);
     fab          = ViewUtil.findById(view, R.id.fab);
     cameraFab    = ViewUtil.findById(view, R.id.camera_fab);
-    packmamFab   = ViewUtil.findById(view, R.id.packmam_fab);
+    translatorFab    = ViewUtil.findById(view, R.id.translator_fab);
+   /* packmamFab   = ViewUtil.findById(view, R.id.packmam_fab);
     walletFab    = ViewUtil.findById(view, R.id.wallet_fab);
     shopFab      = ViewUtil.findById(view, R.id.shop_fab);
-    chatbotFab   = ViewUtil.findById(view, R.id.chatbot_fab);
+    chatbotFab   = ViewUtil.findById(view, R.id.chatbot_fab);*/
     emptyState   = ViewUtil.findById(view, R.id.empty_state);
     emptyImage   = ViewUtil.findById(view, R.id.empty);
     emptySearch  = ViewUtil.findById(view, R.id.empty_search);
@@ -185,7 +187,11 @@ public class ConversationListFragment extends Fragment
                  .onAnyDenied(() -> Toast.makeText(requireContext(), R.string.ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video, Toast.LENGTH_LONG).show())
                  .execute();
     });
-    packmamFab.setOnClickListener(v->{
+    translatorFab.setOnClickListener(v->{
+      Intent intent = new Intent(this.getContext(), ChatbotActivity.class);
+      startActivity(intent);
+    });
+    /*packmamFab.setOnClickListener(v->{
       Intent intent = new Intent(this.getContext(), PackmamActivity.class);
       //intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
       startActivity(intent);
@@ -204,7 +210,7 @@ public class ConversationListFragment extends Fragment
     chatbotFab.setOnClickListener(v->{
       Intent intent = new Intent(this.getContext(), ChatbotActivity.class);
       startActivity(intent);
-    });
+    });*/
   }
 
   @Override
@@ -212,7 +218,7 @@ public class ConversationListFragment extends Fragment
     super.onResume();
 
     updateReminders(true);
-    list.getAdapter().notifyDataSetChanged();
+    list.getAdapter()/*.notifyDataSetChanged()*/;
     EventBus.getDefault().register(this);
   }
 

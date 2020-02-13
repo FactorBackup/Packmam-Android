@@ -25,17 +25,17 @@
   </plurals>
   <string name="ApplicationPreferencesActivity_delete">Изтрий</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Изключи паролата?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Това ще отключи изцяло всички известия съобщения и Packmam съобщения.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Това ще отключи изцяло всички известия съобщения и SinEo съобщения.</string>
   <string name="ApplicationPreferencesActivity_disable">Изключи</string>
   <string name="ApplicationPreferencesActivity_unregistering">Отписване</string>
-  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Дерегистриране от Packmam съобщения и обаждания...</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Деактивирай Packmam съобщения и обаждания?</string>
-  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Деактивирайте Packmam съобщения и обаждания като се дерегистрирате от сървъра. Ще трябва да регистрирате своят номер отново, за да ползвате услугите в бъдеще.</string>
+  <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Дерегистриране от SinEo съобщения и обаждания...</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls">Деактивирай SinEo съобщения и обаждания?</string>
+  <string name="ApplicationPreferencesActivity_disable_signal_messages_and_calls_by_unregistering">Деактивирайте SinEo съобщения и обаждания като се дерегистрирате от сървъра. Ще трябва да регистрирате своят номер отново, за да ползвате услугите в бъдеще.</string>
   <string name="ApplicationPreferencesActivity_error_connecting_to_server">Грешка при свързване със сървъра!</string>
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS-и активирани</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Натисни, за да зададеш SMS програма по подразбиране</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS-и деактивирани</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Натисни, за да направиш Packmam своето SMS приложение по подразбиране</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Натисни, за да направиш SinEo своето SMS приложение по подразбиране</string>
   <string name="ApplicationPreferencesActivity_on">активирана</string>
   <string name="ApplicationPreferencesActivity_On">Активирано</string>
   <string name="ApplicationPreferencesActivity_off">деактивирана</string>
@@ -56,10 +56,10 @@
   <string name="DraftDatabase_Draft_quote_snippet">(отговори)</string>
   <!--AttachmentManager-->
   <string name="AttachmentManager_cant_open_media_selection">Неуспешно откриване на папка за избор на файл.</string>
-  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">Packmam се нуждае от достъп до вградения диск, за да може да прикачва снимки, видеота или аудио, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Дискове\".</string>
-  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">Packmam се нуждае от достъп до контактите Ви, за да може да прикачва информация за тях, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Контакти\".</string>
-  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">Packmam се нуждае от достъп до местоположението Ви, за да може да го прикачва, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Местоположение\".</string>
-  <string name="AttachmentManager_signal_requires_the_camera_permission_in_order_to_take_photos_but_it_has_been_permanently_denied">Packmam се нуждае от достъп до камерта Ви, за да може да прави снимки, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
+  <string name="AttachmentManager_signal_requires_the_external_storage_permission_in_order_to_attach_photos_videos_or_audio">SinEo се нуждае от достъп до вградения диск, за да може да прикачва снимки, видеота или аудио, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Дискове\".</string>
+  <string name="AttachmentManager_signal_requires_contacts_permission_in_order_to_attach_contact_information">SinEo се нуждае от достъп до контактите Ви, за да може да прикачва информация за тях, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Контакти\".</string>
+  <string name="AttachmentManager_signal_requires_location_information_in_order_to_attach_a_location">SinEo се нуждае от достъп до местоположението Ви, за да може да го прикачва, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Местоположение\".</string>
+  <string name="AttachmentManager_signal_requires_the_camera_permission_in_order_to_take_photos_but_it_has_been_permanently_denied">SinEo се нуждае от достъп до камерта Ви, за да може да прави снимки, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
   <!--AttachmentUploadJob-->
   <!--AudioSlidePlayer-->
   <string name="AudioSlidePlayer_error_playing_audio">Грешка при възпроизвеждане на аудио!</string>
@@ -84,7 +84,7 @@
   <string name="CommunicationActions_no_browser_found">Не е открит уеб браузър.</string>
   <string name="CommunicationActions_a_cellular_call_is_already_in_progress">Обаждането вече е в прогрес.</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Числата Ви за сигурност с %1$s са променени. Това означава, че или някой се опитва да прехване комуникацията Ви, или че %2$s е преинсталирал Packmam.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Числата Ви за сигурност с %1$s са променени. Това означава, че или някой се опитва да прехване комуникацията Ви, или че %2$s е преинсталирал SinEo.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Може да желаете да проверите числата за сигурност с този контакт.</string>
   <string name="ConfirmIdentityDialog_accept">Приемам</string>
   <!--ContactsCursorLoader-->
@@ -93,7 +93,7 @@
   <string name="ContactsCursorLoader_groups">Групи</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Съобщение %s</string>
-  <string name="ContactsDatabase_signal_call_s">Packmam обаждане %s</string>
+  <string name="ContactsDatabase_signal_call_s">SinEo обаждане %s</string>
   <!--ContactNameEditActivity-->
   <string name="ContactNameEditActivity_given_name">Име</string>
   <string name="ContactNameEditActivity_family_name">Фамилия</string>
@@ -113,7 +113,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Неуспешно изпращане, натиснете за изпращане по несигурен начин</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Разреши преминавене към не шифровани SMS-и?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Разреши преминавене към не шифровани MMS-и?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Това съобщение <b>НЯМА</b> да бъде криптирано, защото получтеля вече не е потребител на Packmam.\n\nИзпращане на незащитено съобщение?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Това съобщение <b>НЯМА</b> да бъде криптирано, защото получтеля вече не е потребител на SinEo.\n\nИзпращане на незащитено съобщение?</string>
   <string name="ConversationItem_unable_to_open_media">Неуспешно откриване на приложение за отваряне на този файл.</string>
   <string name="ConversationItem_copied_text">%s e копирано</string>
   <string name="ConversationItem_from_s">от %s</string>
@@ -140,8 +140,8 @@
   <string name="ConversationActivity_are_you_sure_you_want_to_leave_this_group">Сигурен ли си, че искаш да напуснеш тази група?</string>
   <string name="ConversationActivity_transport_insecure_sms">Некриптиран SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Некриптиран MMS</string>
-  <string name="ConversationActivity_transport_signal">Packmam</string>
-  <string name="ConversationActivity_lets_switch_to_signal">Да преминем към Packmam %1$s</string>
+  <string name="ConversationActivity_transport_signal">SinEo</string>
+  <string name="ConversationActivity_lets_switch_to_signal">Да преминем към SinEo %1$s</string>
   <string name="ConversationActivity_error_leaving_group">Грешка при напускане на групата</string>
   <string name="ConversationActivity_specify_recipient">Моля избери контакт</string>
   <string name="ConversationActivity_unblock_this_contact_question">Отблокирване на този контакт?</string>
@@ -153,15 +153,15 @@
   <string name="ConversationActivity_quick_camera_unavailable">Камерата е недостъпна</string>
   <string name="ConversationActivity_unable_to_record_audio">Не може да бъде записано аудио!</string>
   <string name="ConversationActivity_there_is_no_app_available_to_handle_this_link_on_your_device">Нямате инсталирано приложение, което да може да използва тази препратка.</string>
-  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">За да изпратите аудио съобщение, разрешете достъпа на Packmam до микрофона.</string>
-  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">Packmam се нуждае от достъп до микрофона Ви, за да може да изпраща аудио съобщения, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Микрофон\".</string>
-  <string name="ConversationActivity_to_call_s_signal_needs_access_to_your_microphone_and_camera">За да се обади на %s, Packmam се нуждае от достъп до микрофона и камерта Ви.</string>
-  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">Packmam се нуждае от достъп до микрофона и камерта Ви, за да може да се обади на %s, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Микрофон\" и \"Камера\".</string>
-  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">За прави снимки и видеота, Packmam се нуждае от достъп до камерта Ви.</string>
-  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">Packmam се нуждае от достъп до камерта Ви, за да може да прави снимки или видеота, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
-  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">Packmam се нуждае от достъп до камерата, за да прави снимки и видеота</string>
+  <string name="ConversationActivity_to_send_audio_messages_allow_signal_access_to_your_microphone">За да изпратите аудио съобщение, разрешете достъпа на SinEo до микрофона.</string>
+  <string name="ConversationActivity_signal_requires_the_microphone_permission_in_order_to_send_audio_messages">SinEo се нуждае от достъп до микрофона Ви, за да може да изпраща аудио съобщения, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Микрофон\".</string>
+  <string name="ConversationActivity_to_call_s_signal_needs_access_to_your_microphone_and_camera">За да се обади на %s, SinEo се нуждае от достъп до микрофона и камерта Ви.</string>
+  <string name="ConversationActivity_signal_needs_the_microphone_and_camera_permissions_in_order_to_call_s">SinEo се нуждае от достъп до микрофона и камерта Ви, за да може да се обади на %s, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Микрофон\" и \"Камера\".</string>
+  <string name="ConversationActivity_to_capture_photos_and_video_allow_signal_access_to_the_camera">За прави снимки и видеота, SinEo се нуждае от достъп до камерта Ви.</string>
+  <string name="ConversationActivity_signal_needs_the_camera_permission_to_take_photos_or_video">SinEo се нуждае от достъп до камерта Ви, за да може да прави снимки или видеота, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
+  <string name="ConversationActivity_signal_needs_camera_permissions_to_take_photos_or_video">SinEo се нуждае от достъп до камерата, за да прави снимки и видеота</string>
   <string name="ConversationActivity_quoted_contact_message">%1$s %2$s</string>
-  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">Packmam не може да изпраща SMS/MMS съобщения защото не е първо предназначена апликация за SMS. Желаетели да се промени това във вашите Android настройки ?</string>
+  <string name="ConversationActivity_signal_cannot_sent_sms_mms_messages_because_it_is_not_your_default_sms_app">SinEo не може да изпраща SMS/MMS съобщения защото не е първо предназначена апликация за SMS. Желаетели да се промени това във вашите Android настройки ?</string>
   <string name="ConversationActivity_yes">Да</string>
   <string name="ConversationActivity_no">Не</string>
   <string name="ConversationActivity_search_position">%1$d от %2$d</string>
@@ -201,7 +201,7 @@
     <item quantity="other">Запазване на %1$d прикачени файла в хранилището...</item>
   </plurals>
   <string name="ConversationFragment_pending">Предстоящ...</string>
-  <string name="ConversationFragment_push">Данни (Packmam)</string>
+  <string name="ConversationFragment_push">Данни (SinEo)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Изтриване</string>
@@ -245,7 +245,7 @@
   <string name="CreateProfileActivity_too_long">Твърде дълго</string>
   <string name="CreateProfileActivity_profile_name">Име на профила</string>
   <string name="CreateProfileActivity_set_up_your_profile">Настройте профила си</string>
-  <string name="CreateProfileActivity_signal_profiles_are_end_to_end_encrypted">Профилите в Packmam са криптирани от край до край, Signal никога не получава достъп до тази информация.</string>
+  <string name="CreateProfileActivity_signal_profiles_are_end_to_end_encrypted">Профилите в SinEo са криптирани от край до край, Signal никога не получава достъп до тази информация.</string>
   <!--CustomDefaultPreference-->
   <string name="CustomDefaultPreference_using_custom">Използване на специален:  %s</string>
   <string name="CustomDefaultPreference_using_default">Използване на подразбиращ се: %s</string>
@@ -277,22 +277,22 @@
   <string name="DocumentView_unknown_file">Непознат файл</string>
   <!--DozeReminder-->
   <string name="DozeReminder_optimize_for_missing_play_services">Оптимизиране за липсващи Play услуги</string>
-  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Това устройство не поддържа Play услуги. Натиснете, за да изключите оптимизациите на батерият, за да преустановите опитите на Packmam да изтегля съобщения, когато не е активен.</string>
+  <string name="DozeReminder_this_device_does_not_support_play_services_tap_to_disable_system_battery">Това устройство не поддържа Play услуги. Натиснете, за да изключите оптимизациите на батерият, за да преустановите опитите на SinEo да изтегля съобщения, когато не е активен.</string>
   <!--ShareActivity-->
   <string name="ShareActivity_share_with">Споделяне с</string>
   <!--ExperienceUpgradeActivity-->
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Добре дошли в Packmam.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">TextSecure и Redphone се обедениха в чат програма за конфеденциално разговори, за всяка ситуация: Packmam.</string>
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Добре дошли в Packmam!</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">TextSecure вече е Packmam.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">TextSecure и Redphone вече са една програма: Packmam. Натисни за да разгледаш.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Добре дошли в SinEo.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">TextSecure и Redphone се обедениха в чат програма за конфеденциално разговори, за всяка ситуация: SinEo.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Добре дошли в SinEo!</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">TextSecure вече е SinEo.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">TextSecure и Redphone вече са една програма: SinEo. Натисни за да разгледаш.</string>
   <string name="ExperienceUpgradeActivity_say_hello_to_video_calls">Кажете здравей на криптирани видео разговори.</string>
-  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calls">Packmam вече поддържа криптирани видео разговори. Просто започнете обаждане, както обикновено и натиснете бутонът за видео.</string>
-  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling">Packmam вече поддържа криптирано видео обаждане.</string>
-  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling_long">Packmam вече поддържа криптирано видео обаждане. Натиснете, за да научите повече.</string>
+  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calls">SinEo вече поддържа криптирани видео разговори. Просто започнете обаждане, както обикновено и натиснете бутонът за видео.</string>
+  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling">SinEo вече поддържа криптирано видео обаждане.</string>
+  <string name="ExperienceUpgradeActivity_signal_now_supports_secure_video_calling_long">SinEo вече поддържа криптирано видео обаждане. Натиснете, за да научите повече.</string>
   <string name="ExperienceUpgradeActivity_ready_for_your_closeup">Готови за снимка?</string>
-  <string name="ExperienceUpgradeActivity_now_you_can_share_a_profile_photo_and_name_with_friends_on_signal">Вече може да споделяте профилна снимка и името си с приятелите си в Packmam</string>
-  <string name="ExperienceUpgradeActivity_signal_profiles_are_here">Профилите в Packmam пристигнаха</string>
+  <string name="ExperienceUpgradeActivity_now_you_can_share_a_profile_photo_and_name_with_friends_on_signal">Вече може да споделяте профилна снимка и името си с приятелите си в SinEo</string>
+  <string name="ExperienceUpgradeActivity_signal_profiles_are_here">Профилите в SinEo пристигнаха</string>
   <string name="ExperienceUpgradeActivity_introducing_typing_indicators">Представяме индикатори за писане.</string>
   <string name="ExperienceUpgradeActivity_now_you_can_optionally_see_and_share_when_messages_are_being_typed">По желание можете да споделяте и виждате дали някой пише съобщения.</string>
   <string name="ExperienceUpgradeActivity_would_you_like_to_enable_them_now">Желаете ли да активирате тази опция?</string>
@@ -302,13 +302,13 @@
   <string name="ExperienceUpgradeActivity_no_thanks">Не, благодаря</string>
   <string name="ExperienceUpgradeActivity_introducing_link_previews">Представяме ви визуализации на линковете.</string>
   <string name="ExperienceUpgradeActivity_optional_link_previews_are_now_supported">Опционални визуализации на линковете вече са поддържани за някои от най-популярните сайтове в интернет.</string>
-  <string name="ExperienceUpgradeActivity_you_can_disable_or_enable_this_feature_link_previews">Можете да деактивирате или активирате тази функция по всяко време в настройките на Packmam (Поверителност &gt; Изпращане на визуализации на връзката).</string>
+  <string name="ExperienceUpgradeActivity_you_can_disable_or_enable_this_feature_link_previews">Можете да деактивирате или активирате тази функция по всяко време в настройките на SinEo (Поверителност &gt; Изпращане на визуализации на връзката).</string>
   <string name="ExperienceUpgradeActivity_got_it">Ясно</string>
   <!--GcmBroadcastReceiver-->
   <string name="GcmBroadcastReceiver_retrieving_a_message">Изтегляне на съобщение...</string>
   <!--GcmRefreshJob-->
-  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Перманентна Packmam комуникационна грешка!</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Packmam не успя да се регистрира с Google Play Services. Signal съообщения и разговори са деактивирани, моля пререгистрирайте през менюто Настройки &gt; Допълнителние.</string>
+  <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Перманентна SinEo комуникационна грешка!</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">SinEo не успя да се регистрира с Google Play Services. Signal съообщения и разговори са деактивирани, моля пререгистрирайте през менюто Настройки &gt; Допълнителние.</string>
   <!--GiphyActivity-->
   <string name="GiphyActivity_error_while_retrieving_full_resolution_gif">Грешка при вземането на GIF в пълна резолюция</string>
   <!--GiphyFragmentPageAdapter-->
@@ -319,15 +319,15 @@
   <string name="GroupCreateActivity_actionbar_edit_title">Промяна на групата</string>
   <string name="GroupCreateActivity_group_name_hint">Име на групата</string>
   <string name="GroupCreateActivity_actionbar_mms_title">Нова MMS група</string>
-  <string name="GroupCreateActivity_contacts_dont_support_push">Избрахте контакт, който не поддържа Packmam групи, така че групата ще бъде MMS.</string>
-  <string name="GroupCreateActivity_youre_not_registered_for_signal">Не сте регистриран за Packmam съобщения и разговори, така че Signal групи са деактивирани. Моля, опитайте да се регистрирате в Настройки &gt; Допълнителни.</string>
+  <string name="GroupCreateActivity_contacts_dont_support_push">Избрахте контакт, който не поддържа SinEo групи, така че групата ще бъде MMS.</string>
+  <string name="GroupCreateActivity_youre_not_registered_for_signal">Не сте регистриран за SinEo съобщения и разговори, така че Signal групи са деактивирани. Моля, опитайте да се регистрирате в Настройки &gt; Допълнителни.</string>
   <string name="GroupCreateActivity_contacts_no_members">Трябва да добавите поне един човек в групата си!</string>
   <string name="GroupCreateActivity_contacts_invalid_number">Един от членовете на групата има номер, който не може да бъде разпознат правилно. Моля, оправи номера на контакта или го премахни.</string>
   <string name="GroupCreateActivity_avatar_content_description">Аватар за групата</string>
   <string name="GroupCreateActivity_menu_apply_button">Изпълни</string>
   <string name="GroupCreateActivity_creating_group">Създаване на %1$s...</string>
   <string name="GroupCreateActivity_updating_group">Обновяване %1$s...</string>
-  <string name="GroupCreateActivity_cannot_add_non_push_to_existing_group">Неуспешно добавяне на %1$s, защото те не са потребители на Packmam.</string>
+  <string name="GroupCreateActivity_cannot_add_non_push_to_existing_group">Неуспешно добавяне на %1$s, защото те не са потребители на SinEo.</string>
   <string name="GroupCreateActivity_loading_group_details">Зареждане на информация за групата...</string>
   <string name="GroupCreateActivity_youre_already_in_the_group">Вече сте в групата.</string>
   <!--GroupShareProfileView-->
@@ -348,7 +348,7 @@
   <string name="InviteActivity_sending">Изпращане...</string>
   <string name="InviteActivity_heart_content_description">Сърце</string>
   <string name="InviteActivity_invitations_sent">Поканите изпратени!</string>
-  <string name="InviteActivity_invite_to_signal">Покани в Packmam</string>
+  <string name="InviteActivity_invite_to_signal">Покани в SinEo</string>
   <plurals name="InviteActivity_send_sms_to_friends">
     <item quantity="one">ИЗПРАЩАНЕ НА SMS НА %d ПРИЯТЕЛ</item>
     <item quantity="other">ИЗПРАЩАНЕ НА SMS НА %d ПРИТЯТЕЛЯ</item>
@@ -357,7 +357,7 @@
     <item quantity="one">Изпащане на %d SMS покана?</item>
     <item quantity="other">Изпащане на %d SMS покани?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">Да преминем към Packmam %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">Да преминем към SinEo %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Изглежда нямате приложения, с които да можете да сподялите.</string>
   <string name="InviteActivity_friends_dont_let_friends_text_unencrypted">Приятелите не оставят приятелите си да чатят без криптиране.</string>
   <!--Job-->
@@ -370,7 +370,7 @@
   <string name="LongMessageActivity_message_from_s">Съобщение от %1$s</string>
   <string name="LongMessageActivity_your_message">Вашето съобщение</string>
   <!--MessageRetrievalService-->
-  <string name="MessageRetrievalService_signal">Packmam</string>
+  <string name="MessageRetrievalService_signal">SinEo</string>
   <string name="MessageRetrievalService_background_connection_enabled">Връзката във фонов режим е активирана</string>
   <!--MmsDownloader-->
   <string name="MmsDownloader_error_reading_mms_settings">Грешка при четенето на MMS настройките на доставчика</string>
@@ -390,9 +390,9 @@
   <string name="MediaOverviewActivity_Select_all">Избери всичко</string>
   <string name="MediaOverviewActivity_collecting_attachments">Събиране на прикачени файлове...</string>
   <!--- NotificationBarManager-->
-  <string name="NotificationBarManager_signal_call_in_progress">Протича Packmam разговор</string>
-  <string name="NotificationBarManager__establishing_signal_call">Установяване на Packmam разговор</string>
-  <string name="NotificationBarManager__incoming_signal_call">Входящо Packmam обаждане</string>
+  <string name="NotificationBarManager_signal_call_in_progress">Протича SinEo разговор</string>
+  <string name="NotificationBarManager__establishing_signal_call">Установяване на SinEo разговор</string>
+  <string name="NotificationBarManager__incoming_signal_call">Входящо SinEo обаждане</string>
   <string name="NotificationBarManager__deny_call">Отхвърляне на обаждането</string>
   <string name="NotificationBarManager__answer_call">Приеми обаждането</string>
   <string name="NotificationBarManager__end_call">Прекрати обаждането</string>
@@ -411,7 +411,7 @@
   <string name="MediaSendActivity_camera_unavailable">Не е открита камера.</string>
   <string name="MediaSendActivity_message_to_s">Изпрати на %s</string>
   <string name="MediaSendActivity_message">Съобщение</string>
-  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">Packmam се нуждае от достъп до контактите Ви, за да може да ги покаже.</string>
+  <string name="MediaSendActivity_signal_needs_access_to_your_contacts">SinEo се нуждае от достъп до контактите Ви, за да може да ги покаже.</string>
   <plurals name="MediaSendActivity_cant_share_more_than_n_items">
     <item quantity="one">Не можете да споделяте повече от %d елемент.</item>
     <item quantity="other">Не можете да споделяте повече от %d елементи.</item>
@@ -419,7 +419,7 @@
   <!--MediaRepository-->
   <string name="MediaRepository_all_media">Всички прикачените файлове</string>
   <!--MessageRecord-->
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Получихте съобщение криптирано със стара версия на Packmam, която вече не се поддържа. Моля, помолете изпращача да обнови версията си и да препрати съобщението.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Получихте съобщение криптирано със стара версия на SinEo, която вече не се поддържа. Моля, помолете изпращача да обнови версията си и да препрати съобщението.</string>
   <string name="MessageRecord_left_group">Напуснахте групата.</string>
   <string name="MessageRecord_you_updated_group">Обновихте групата.</string>
   <string name="MessageRecord_you_called">Вие се обадихте</string>
@@ -429,7 +429,7 @@
   <string name="MessageRecord_s_called_you">%s ти се обади</string>
   <string name="MessageRecord_called_s">Обаждане до %s</string>
   <string name="MessageRecord_missed_call_from">Пропуснато обаждане от %s</string>
-  <string name="MessageRecord_s_joined_signal">%s е в Packmam!</string>
+  <string name="MessageRecord_s_joined_signal">%s е в SinEo!</string>
   <string name="MessageRecord_you_disabled_disappearing_messages">Деактивирахте изчезващи съобщения.</string>
   <string name="MessageRecord_s_disabled_disappearing_messages">%1$s деактивира изчезващи съобщения.</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">Променихте продължителноста на изчезващи съобщения на %1$s.</string>
@@ -460,9 +460,9 @@
   <string name="DeviceProvisioningActivity_content_progress_key_error">Невалиден QR код.</string>
   <string name="DeviceProvisioningActivity_sorry_you_have_too_many_devices_linked_already">За съжалние имате твърде много свързани устройства, опитайте да премахнете някои от тях...</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">За съжаление това не е валидна QR връзка.</string>
-  <string name="DeviceProvisioningActivity_link_a_signal_device">Свързване със Packmam устройство?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Изглежда се опитвате да свържете Packmam устройство с външна скенер програма. За Ваша сигурност, моля сканирайте кодът повторно използвайки Signal.</string>
-  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">Packmam се нуждае от достъп до камерата Ви, за да може да сканирва QR кодове, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
+  <string name="DeviceProvisioningActivity_link_a_signal_device">Свързване със SinEo устройство?</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Изглежда се опитвате да свържете SinEo устройство с външна скенер програма. За Ваша сигурност, моля сканирайте кодът повторно използвайки Signal.</string>
+  <string name="DeviceActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code">SinEo се нуждае от достъп до камерата Ви, за да може да сканирва QR кодове, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
   <string name="DeviceActivity_unable_to_scan_a_qr_code_without_the_camera_permission">Неуспешно сканирване на QR код без разрешение за достъп до камерата</string>
   <!--ExpirationDialog-->
   <string name="ExpirationDialog_disappearing_messages">Изчезващи съобщения</string>
@@ -470,7 +470,7 @@
   <string name="ExpirationDialog_your_messages_will_disappear_s_after_they_have_been_seen">Изпратени и получени съобщения в този разговор ще изчезнат %s след изпращането им.</string>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Въведете паролата</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Packmam икона</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">SinEo икона</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Задай паролата</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Грешна парола!</string>
   <!--PlacePickerActivity-->
@@ -523,7 +523,7 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Избраният номер
 (%s) е невалиден.</string>
   <string name="RegistrationActivity_missing_google_play_services">Липсват Google Play услуги</string>
-  <string name="RegistrationActivity_this_device_is_missing_google_play_services">На това устройсто липсваt Google Play Services. Ще може да продължите да използвате Packmam, но тази конфигурация може да доведе до намалена надежност или производителност.\n\nАко сте технологичен експерт, не ползвате специализирана версия на Андроид, или смятата, че виждате това съобщение по грешка, моля свържете се със support@packmam.org за помощ.</string>
+  <string name="RegistrationActivity_this_device_is_missing_google_play_services">На това устройсто липсваt Google Play Services. Ще може да продължите да използвате SinEo, но тази конфигурация може да доведе до намалена надежност или производителност.\n\nАко сте технологичен експерт, не ползвате специализирана версия на Андроид, или смятата, че виждате това съобщение по грешка, моля свържете се със https://patikle.com/ за помощ.</string>
   <string name="RegistrationActivity_i_understand">Разбирам</string>
   <string name="RegistrationActivity_play_services_error">Грешка с Play услуги</string>
   <string name="RegistrationActivity_google_play_services_is_updating_or_unavailable">Google Play услуги се обновява или временно не е на разположение. Моля, опитайте отново.</string>
@@ -531,9 +531,9 @@
   <string name="RegistrationActivity_no_browser">Неуспешно отваряне на тази препратка. Не е открит уеб браузър.</string>
   <string name="RegistrationActivity_more_information">Повече информация</string>
   <string name="RegistrationActivity_less_information">По-малко информация</string>
-  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">Packmam се нуждае от достъп до контактите Ви и друга медия, за да може да може да се свързва с приятелите Ви, обменя съобщения и да прави обажданията защитени.</string>
+  <string name="RegistrationActivity_signal_needs_access_to_your_contacts_and_media_in_order_to_connect_with_friends">SinEo се нуждае от достъп до контактите Ви и друга медия, за да може да може да се свързва с приятелите Ви, обменя съобщения и да прави обажданията защитени.</string>
   <string name="RegistrationActivity_unable_to_connect_to_service">Неуспешно свързване с услугата. Моля, проверете мобилната връзка и опитайте отново.</string>
-  <string name="RegistrationActivity_to_easily_verify_your_phone_number_signal_can_automatically_detect_your_verification_code">За да можете лесно да потвърдите телефонния си номер, Packmam може автоматично да прочете кода за потвърждение ако разрешите достъпът на Signal до SMS съобщенията Ви.</string>
+  <string name="RegistrationActivity_to_easily_verify_your_phone_number_signal_can_automatically_detect_your_verification_code">За да можете лесно да потвърдите телефонния си номер, SinEo може автоматично да прочете кода за потвърждение ако разрешите достъпът на Signal до SMS съобщенията Ви.</string>
   <plurals name="RegistrationActivity_debug_log_hint">
     <item quantity="one">Сега сте %d стъпка от изпращането на дебъг лога.</item>
     <item quantity="other">Сега сте на %d стъпки от изпращането на дебъг лога.</item>
@@ -559,13 +559,13 @@
   <string name="SearchFragment_header_messages">Съобщения</string>
   <!--SharedContactDetailsActivity-->
   <string name="SharedContactDetailsActivity_add_to_contacts">Добавяне към контакти</string>
-  <string name="SharedContactDetailsActivity_invite_to_signal">Покани в Packmam</string>
-  <string name="SharedContactDetailsActivity_signal_message">Packmam-ско съобщение</string>
-  <string name="SharedContactDetailsActivity_signal_call">Обаждане през Packmam</string>
+  <string name="SharedContactDetailsActivity_invite_to_signal">Покани в SinEo</string>
+  <string name="SharedContactDetailsActivity_signal_message">SinEo-ско съобщение</string>
+  <string name="SharedContactDetailsActivity_signal_call">Обаждане през SinEo</string>
   <!--SharedContactView-->
   <string name="SharedContactView_add_to_contacts">Добавяне към контакти</string>
-  <string name="SharedContactView_invite_to_signal">Покани в Packmam</string>
-  <string name="SharedContactView_message">Packmam-ско съобщение</string>
+  <string name="SharedContactView_invite_to_signal">Покани в SinEo</string>
+  <string name="SharedContactView_message">SinEo-ско съобщение</string>
   <!--Slide-->
   <string name="Slide_image">Изображение</string>
   <string name="Slide_sticker">Стикер</string>
@@ -581,13 +581,13 @@
   <string name="SmsMessageRecord_secure_session_reset">Вие рестартирахте сигурната сесия.</string>
   <string name="SmsMessageRecord_secure_session_reset_s">%s рестартира сигурната сесия.</string>
   <string name="SmsMessageRecord_duplicate_message">Дублирай съобщението.</string>
-  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Това съпбщение не можа да бъде обработено, защото бе изпратено от по-нова версиа на Packmam. Може да помолите Вашия контакт да изпрати съобщението отново след като актуализирате.</string>
+  <string name="SmsMessageRecord_this_message_could_not_be_processed_because_it_was_sent_from_a_newer_version">Това съпбщение не можа да бъде обработено, защото бе изпратено от по-нова версиа на SinEo. Може да помолите Вашия контакт да изпрати съобщението отново след като актуализирате.</string>
   <!--StickerManagementActivity-->
   <string name="StickerManagementActivity_stickers">Стикери</string>
   <!--StickerManagementAdapter-->
   <string name="StickerManagementAdapter_installed_stickers">Инсталирани стикери</string>
   <string name="StickerManagementAdapter_stickers_you_received">Получени стикери</string>
-  <string name="StickerManagementAdapter_signal_artist_series">Packmam Artist серии</string>
+  <string name="StickerManagementAdapter_signal_artist_series">SinEo Artist серии</string>
   <string name="StickerManagementAdapter_no_stickers_installed">Няма инсталирани стикери</string>
   <string name="StickerManagementAdapter_stickers_from_incoming_messages_will_appear_here">Стикери от входящи съобщения ще се появяват тук</string>
   <string name="StickerManagementAdapter_untitled">Неозаглавен</string>
@@ -609,7 +609,7 @@
   <string name="ThreadRecord_missed_call">Пропуснато обаждане</string>
   <string name="ThreadRecord_media_message">Медийно съобщение</string>
   <string name="ThreadRecord_sticker">Стикер</string>
-  <string name="ThreadRecord_s_is_on_signal">%s е в Packmam!</string>
+  <string name="ThreadRecord_s_is_on_signal">%s е в SinEo!</string>
   <string name="ThreadRecord_disappearing_messages_disabled">Изчезващите съобщения са деактивирани</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">Времето за изчезване на съобщенията е %s</string>
   <string name="ThreadRecord_safety_number_changed">Числата за сигурност се промениха</string>
@@ -618,8 +618,8 @@
   <string name="ThreadRecord_you_marked_unverified">Отбелязахте като непотвърдено</string>
   <string name="ThreadRecord_message_could_not_be_processed">Съобщението не можа да бъде отработено</string>
   <!--UpdateApkReadyListener-->
-  <string name="UpdateApkReadyListener_Signal_update">Обновление на Packmam</string>
-  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Има нова версия на Packmam, натиснете, за да обновите.</string>
+  <string name="UpdateApkReadyListener_Signal_update">Обновление на SinEo</string>
+  <string name="UpdateApkReadyListener_a_new_version_of_signal_is_available_tap_to_update">Има нова версия на SinEo, натиснете, за да обновите.</string>
   <!--UnknownSenderView-->
   <string name="UnknownSenderView_block_s">Блокирай %s?</string>
   <string name="UnknownSenderView_blocked_contacts_will_no_longer_be_able_to_send_you_messages_or_call_you">Блокираните контакти няма да могат да Ви изпращат съобщения или да Ви се обаждат.</string>
@@ -634,14 +634,14 @@
   <string name="UnverifiedSendDialog_send_message">Изпращане на съобщение?</string>
   <string name="UnverifiedSendDialog_send">Изпращане</string>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Вашият контакт използва стара версия на Packmam. Помолете го да я обнови, преди да сравните числата за сигурност.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Вашият контакт използва по-нова версия на Packmam с несъвместим QR формат. Моля, обновете версията си, за да можете да сравните.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Вашият контакт използва стара версия на SinEo. Помолете го да я обнови, преди да сравните числата за сигурност.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Вашият контакт използва по-нова версия на SinEo с несъвместим QR формат. Моля, обновете версията си, за да можете да сравните.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Сканираният QR код не представлява правилно форматирани числа за сигурност. Моля, опитайте да сканирате отново.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Споделяне на числа за сигурност през...</string>
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Нашите Packmam числа за сигурност:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Нашите SinEo числа за сигурност:</string>
   <string name="VerifyIdentityActivity_no_app_to_share_to">Изглежда нямате приложения, с които да можете да сподялите.</string>
   <string name="VerifyIdentityActivity_no_safety_number_to_compare_was_found_in_the_clipboard">Не са открити копирани числа за сигурност</string>
-  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">Packmam се нуждае от достъп до камерата Ви, за да може да сканирва QR кодове, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
+  <string name="VerifyIdentityActivity_signal_needs_the_camera_permission_in_order_to_scan_a_qr_code_but_it_has_been_permanently_denied">SinEo се нуждае от достъп до камерата Ви, за да може да сканирва QR кодове, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Камера\".</string>
   <string name="VerifyIdentityActivity_unable_to_scan_qr_code_without_camera_permission">Неуспешно сканирване на QR код без разрешение за достъп до камерата</string>
   <!--ViewOnceMessageActivity-->
   <!--MessageDisplayHelper-->
@@ -662,13 +662,13 @@
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Натиснете за отворяне.</string>
   <string name="KeyCachingService_signal_passphrase_cached_with_lock">Натиснете, за да отворите или натиснете катинара, за да затворите.</string>
-  <string name="KeyCachingService_passphrase_cached">Packmam е отключен</string>
-  <string name="KeyCachingService_lock">Заключване на Packmam</string>
+  <string name="KeyCachingService_passphrase_cached">SinEo е отключен</string>
+  <string name="KeyCachingService_lock">Заключване на SinEo</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ти</string>
   <string name="MediaPreviewActivity_unssuported_media_type">Неподдържан медиен формат.</string>
   <string name="MediaPreviewActivity_draft">Чернова</string>
-  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Packmam се нуждае от достъп до вградения диск, за да може да запазва на  него, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Дискове\".</string>
+  <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">SinEo се нуждае от достъп до вградения диск, за да може да запазва на  него, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Дискове\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Неуспешно запазване на външен диск без нуждното разрешение за достъп</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Изтриване на съобщението?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Това ще изтрие невъзвращаемо текущото съобщение.</string>
@@ -685,10 +685,10 @@
   <string name="MessageNotifier_media_message">Медийно съобщение</string>
   <string name="MessageNotifier_sticker">Стикер</string>
   <string name="MessageNotifier_reply">Отговори</string>
-  <string name="MessageNotifier_signal_message">Packmam-ско съобщение</string>
+  <string name="MessageNotifier_signal_message">SinEo-ско съобщение</string>
   <string name="MessageNotifier_unsecured_sms">Некриптиран SMS</string>
   <string name="MessageNotifier_you_may_have_new_messages">Вие може да имате нови съобщения</string>
-  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Отворете Packmam за да проверите за скорошни известия</string>
+  <string name="MessageNotifier_open_signal_to_check_for_recent_notifications">Отворете SinEo за да проверите за скорошни известия</string>
   <string name="MessageNotifier_contact_message">%1$s %2$s</string>
   <string name="MessageNotifier_unknown_contact_message">Контакт</string>
   <!--Notification Channels-->
@@ -702,7 +702,7 @@
   <string name="NotificationChannel_group_messages">Съобщения</string>
   <string name="NotificationChannel_missing_display_name">Непознат</string>
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Бърз отговор не е възможен, когато Packmam е заключен!</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Бърз отговор не е възможен, когато SinEo е заключен!</string>
   <string name="QuickResponseService_problem_sending_message">Проблем при изпрашане на съобщение!</string>
   <!--SaveAttachmentTask-->
   <string name="SaveAttachmentTask_saved_to">Запзване в %s</string>
@@ -713,7 +713,7 @@
   <!--ShortcutLauncherActivity-->
   <string name="ShortcutLauncherActivity_invalid_shortcut">Невалидена препратка</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Packmam</string>
+  <string name="SingleRecipientNotificationBuilder_signal">SinEo</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Ново съобщение</string>
   <!--TransferControlView-->
   <plurals name="TransferControlView_n_items">
@@ -722,14 +722,14 @@
   </plurals>
   <!--UnauthorizedReminder-->
   <string name="UnauthorizedReminder_device_no_longer_registered">Устройството вече не е регистрирано.</string>
-  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Това е вероятно, защото сте регистрирали номерът си със Packmam на друго устройство. Натиснете, за да го дерегистрирате.</string>
+  <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">Това е вероятно, защото сте регистрирали номерът си със SinEo на друго устройство. Натиснете, за да го дерегистрирате.</string>
   <!--VideoPlayer-->
   <string name="VideoPlayer_error_playing_video">Грешка при пускане на видео</string>
   <!--WebRtcCallActivity-->
-  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">За да можете да провеждате разговор с %s, разрешете на Packmam достъп до микрофона.</string>
-  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">Packmam се нуждае от достъп до микрофона и камерта Ви, за да може да получава обаждания, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Микрофон\" и \"Камера\".</string>
+  <string name="WebRtcCallActivity_to_answer_the_call_from_s_give_signal_access_to_your_microphone">За да можете да провеждате разговор с %s, разрешете на SinEo достъп до микрофона.</string>
+  <string name="WebRtcCallActivity_signal_requires_microphone_and_camera_permissions_in_order_to_make_or_receive_calls">SinEo се нуждае от достъп до микрофона и камерта Ви, за да може да получава обаждания, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Микрофон\" и \"Камера\".</string>
   <!--WebRtcCallScreen-->
-  <string name="WebRtcCallScreen_new_safety_numbers">Числата за сигурност за разговора с %1$s са променени. Това означава, че или някой се опитва да прехване куминикацията Ви, или че %2$s е преинсталирал Packmam.</string>
+  <string name="WebRtcCallScreen_new_safety_numbers">Числата за сигурност за разговора с %1$s са променени. Това означава, че или някой се опитва да прехване куминикацията Ви, или че %2$s е преинсталирал SinEo.</string>
   <string name="WebRtcCallScreen_you_may_wish_to_verify_this_contact">Може да желаете да проверите числата за сигурност с този контакт.</string>
   <string name="WebRtcCallScreen_new_safety_number_title">Нови числа за сигурност</string>
   <string name="WebRtcCallScreen_accept">Приемам</string>
@@ -763,7 +763,7 @@
   <string name="change_passphrase_activity__repeat_new_passphrase">Повторете новата парола</string>
   <!--contact_selection_activity-->
   <string name="contact_selection_activity__enter_name_or_number">Въведете име или номер</string>
-  <string name="contact_selection_activity__invite_to_signal">Покани в Packmam</string>
+  <string name="contact_selection_activity__invite_to_signal">Покани в SinEo</string>
   <!--contact_filter_toolbar-->
   <!--contact_selection_group_activity-->
   <string name="contact_selection_group_activity__no_contacts">Няма контакти.</string>
@@ -771,15 +771,15 @@
   <!--single_contact_selection_activity-->
   <string name="SingleContactSelectionActivity_contact_photo">Снимка на Контактът</string>
   <!--ContactSelectionListFragment-->
-  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">Packmam се нуждае от достъп до контактите Ви, за да може да Ви ги показва, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Контакти\".</string>
+  <string name="ContactSelectionListFragment_signal_requires_the_contacts_permission_in_order_to_display_your_contacts">SinEo се нуждае от достъп до контактите Ви, за да може да Ви ги показва, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Контакти\".</string>
   <string name="ContactSelectionListFragment_error_retrieving_contacts_check_your_network_connection">Грешка при получаване на конатактите, моля, проверете мобилната връзка</string>
   <!--blocked_contacts_fragment-->
   <string name="blocked_contacts_fragment__no_blocked_contacts">Няма блокирани контакти</string>
   <!--contact_selection_list_fragment-->
-  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">Packmam се нуждае от достъп до контактите Ви, за да може да ги покаже.</string>
+  <string name="contact_selection_list_fragment__signal_needs_access_to_your_contacts_in_order_to_display_them">SinEo се нуждае от достъп до контактите Ви, за да може да ги покаже.</string>
   <string name="contact_selection_list_fragment__show_contacts">Показване на контактите</string>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Packmam-ско съобщение</string>
+  <string name="conversation_activity__type_message_push">SinEo-ско съобщение</string>
   <string name="conversation_activity__type_message_sms_insecure">Некриптиран SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Некриптиран MMS</string>
   <string name="conversation_activity__from_sim_name">От %1$s</string>
@@ -790,7 +790,7 @@
   <string name="conversation_activity__attachment_thumbnail">Изображение на прикачен файл</string>
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Затворяне/отворяне на чекмеджето за прикчаване на файл от камера</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Записване и изпращане прикачено аудио</string>
-  <string name="conversation_activity__enable_signal_for_sms">Активиране на Packmam за SMS-и</string>
+  <string name="conversation_activity__enable_signal_for_sms">Активиране на SinEo за SMS-и</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">Плъзнете за отказ</string>
   <string name="conversation_input_panel__cancel">Отказ</string>
@@ -863,9 +863,9 @@
   <string name="IdentityUtil_unverified_banner_one">Числото Ви за сигурност с %s се промени и вече е невалидно</string>
   <string name="IdentityUtil_unverified_banner_two">Числата Ви за сигурност с %1$s и %2$s вече се смятат за непотвърдени</string>
   <string name="IdentityUtil_unverified_banner_many">Числата Ви за сигурност с %1$s, %2$s и %3$s вече се смятат за непотвърдени</string>
-  <string name="IdentityUtil_unverified_dialog_one">Числото Ви за сигурност с %1$s се промени и вече се смята за непотвърдено. Това означава или че някой се опитва да прехване разговора, или че %1$s е преинсталирал Packmam.</string>
-  <string name="IdentityUtil_unverified_dialog_two">Числата Ви за сигурност с %1$s и %2$s вече се смятат за непотвърдени. Това означава или че някой се опитва да прехване разговора, или че те са преинсталирали Packmam.</string>
-  <string name="IdentityUtil_unverified_dialog_many">Числата Ви за сигурност с %1$s, %2$s и %3$s вече се смятат за непотвърдени. Това означава или, че някой се опитва да прехване разговора, или че те са преинсталирали Packmam.</string>
+  <string name="IdentityUtil_unverified_dialog_one">Числото Ви за сигурност с %1$s се промени и вече се смята за непотвърдено. Това означава или че някой се опитва да прехване разговора, или че %1$s е преинсталирал SinEo.</string>
+  <string name="IdentityUtil_unverified_dialog_two">Числата Ви за сигурност с %1$s и %2$s вече се смятат за непотвърдени. Това означава или че някой се опитва да прехване разговора, или че те са преинсталирали SinEo.</string>
+  <string name="IdentityUtil_unverified_dialog_many">Числата Ви за сигурност с %1$s, %2$s и %3$s вече се смятат за непотвърдени. Това означава или, че някой се опитва да прехване разговора, или че те са преинсталирали SinEo.</string>
   <string name="IdentityUtil_untrusted_dialog_one">Числото Ви за сигурност с %s се промени току що.</string>
   <string name="IdentityUtil_untrusted_dialog_two">Числата Ви за сигурност с %1$s и %2$s се промениха току що.</string>
   <string name="IdentityUtil_untrusted_dialog_many">Числата Ви за сигурност с %1$s, %2$s и %3$sсе промениха току що.</string>
@@ -896,7 +896,7 @@
   <string name="log_submit_activity__please_review_this_log_from_my_app">Моля прегледайте логът на моето приложение: %1$s</string>
   <string name="log_submit_activity__network_failure">Грешка в мрежата. Моля, опитайте отново.</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Желаете ли да внесете вече съществуващите текстови съобщения в криптираната база данни на Packmam?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Желаете ли да внесете вече съществуващите текстови съобщения в криптираната база данни на SinEo?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">Системната база данни няма да бъде променена по никакъв начин.</string>
   <string name="database_migration_activity__skip">Пропусни</string>
   <string name="database_migration_activity__import">Внасяне</string>
@@ -926,7 +926,7 @@
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Отключи</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Packmam се нуждае от MMS настройки, за да може да достави медийни и групови съобщения през мрежата. Устройството ти не прави тази информация достъпна, което се случва понякога за заключени устройва и други ограничени конфигурации.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">SinEo се нуждае от MMS настройки, за да може да достави медийни и групови съобщения през мрежата. Устройството ти не прави тази информация достъпна, което се случва понякога за заключени устройва и други ограничени конфигурации.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">За да изптратиш медийни и групови съобщения, избери \'ОК\' и нагласи изискваните настройки. MMS настройките на твоя мобилен оператор могат да бъдат намерени като потърсиш \'APN настройки\'. Нужно е да изпълниш тази стъпка само веднъж.</string>
   <!--profile_create_activity-->
   <string name="profile_create_activity__set_later">Промени по-късно</string>
@@ -949,10 +949,10 @@
   <string name="recipient_preferences__call_settings">Настройки на разговора</string>
   <string name="recipient_preferences__ringtone">Мелодия</string>
   <!--- redphone_call_controls-->
-  <string name="redphone_call_card__signal_call">Обаждане през Packmam</string>
+  <string name="redphone_call_card__signal_call">Обаждане през SinEo</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">ТЕЛЕФОНЕН НОМЕР</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Packmam улеснява комуникирането като използва вече съществущ телефонен номер и адресна книга. Прителите и контакти, които вече знаят как да се свържат по телефона ще могат да се свържат лесно и през Signal.\n\nРегистрацията изпраща информация за контактите до сървъра. Тази информация не се пази.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">SinEo улеснява комуникирането като използва вече съществущ телефонен номер и адресна книга. Прителите и контакти, които вече знаят как да се свържат по телефона ще могат да се свържат лесно и през Signal.\n\nРегистрацията изпраща информация за контактите до сървъра. Тази информация не се пази.</string>
   <string name="registration_activity__verify_your_number">Потвърдете числата си</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Моля, въведете мобилния си номер, за да получите код за потвърждение. Стандартните такси на мобилния Ви оператор ще бъдат приложени.</string>
   <!--recipients_panel-->
@@ -964,7 +964,7 @@
   <string name="unknown_sender_view__add_to_contacts">ДОБАВЯНЕ В КОНТАКТИ</string>
   <string name="unknown_sender_view__don_t_add_but_make_my_profile_visible">НЕ ДОБАВЯЙ, НО НАПРАВИ ПРОФИЛА ВИДИМ</string>
   <!--verify_display_fragment-->
-  <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ако желаете да потвърдите сигурноста на криптирането с %s,  срванете числото изписано по-горе с числото на тяхното устройство. Алтернативно, може да сканирате кодът на техния телефон или да ги помолите да сканират вашия. <a href="https://packmam.org/redirect/safety-numbers">Научете повече.</a>]]></string>
+  <string name="verify_display_fragment__if_you_wish_to_verify_the_security_of_your_end_to_end_encryption_with_s"><![CDATA[Ако желаете да потвърдите сигурноста на криптирането с %s,  срванете числото изписано по-горе с числото на тяхното устройство. Алтернативно, може да сканирате кодът на техния телефон или да ги помолите да сканират вашия. <a href="https://patikle.com/">Научете повече.</a>]]></string>
   <string name="verify_display_fragment__tap_to_scan">Натиснете за сканиране</string>
   <string name="verify_display_fragment__loading">Зареждане...</string>
   <string name="verify_display_fragment__verified">Потвърдено</string>
@@ -1025,8 +1025,8 @@
   <string name="preferences__sms_mms">SMS и MMS</string>
   <string name="preferences__pref_all_sms_title">Използване за всички SMS-и</string>
   <string name="preferences__pref_all_mms_title">Използване за всички MMS-и</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Използване на Packmam за всички входящи текстови съобщения</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Използване на Packmam за всички входящи мултимедийни съобщения</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Използване на SinEo за всички входящи текстови съобщения</string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Използване на SinEo за всички входящи мултимедийни съобщения</string>
   <string name="preferences__pref_enter_sends_title">Клавишът Enter се използва за изпращане</string>
   <string name="preferences__pressing_the_enter_key_will_send_text_messages">Натискане на клавиша Enter ще изпрати текстово съобщене</string>
   <string name="preferences__send_link_previews">Изпращане на визуализации на връзката</string>
@@ -1039,7 +1039,7 @@
   <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Заключване на екрана и известията с парола</string>
   <string name="preferences__screen_security">Сигурност на екрана</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Забраняване на автоматично копиране на екрана в списка с често използвани програми и в самата програма.</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Автоматично заключвай Packmam след зададен период от неактивност</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Автоматично заключвай SinEo след зададен период от неактивност</string>
   <string name="preferences__inactivity_timeout_passphrase">Парола за период на неактивност</string>
   <string name="preferences__inactivity_timeout_interval">Продължителност на период за неактивност</string>
   <string name="preferences__notifications">Известия</string>
@@ -1092,8 +1092,8 @@
   <string name="preferences__theme">Тема</string>
   <string name="preferences__default">По подразбиране</string>
   <string name="preferences__language">Език</string>
-  <string name="preferences__signal_messages_and_calls">Packmam съобщения и обаждания</string>
-  <string name="preferences__free_private_messages_and_calls">Безплатни, лични съобщения и обаждания до Packmam потребители</string>
+  <string name="preferences__signal_messages_and_calls">SinEo съобщения и обаждания</string>
+  <string name="preferences__free_private_messages_and_calls">Безплатни, лични съобщения и обаждания до SinEo потребители</string>
   <string name="preferences__submit_debug_log">Изпращане на доклад</string>
   <string name="preferences__support_wifi_calling">Съвместим режим \'WiFi Calling\'</string>
   <string name="preferences__enable_if_your_device_supports_sms_mms_delivery_over_wifi">Включи ако устройството ти използва WiFi за SMS/MMS(само ако \'Wifi Calling\' е включен на устройството ти)</string>
@@ -1110,8 +1110,8 @@
   <string name="preferences_chats__media_auto_download">Автоматично изтегляне на мултимедия</string>
   <string name="preferences_chats__message_trimming">Съкращаване на съобщенията</string>
   <string name="preferences_advanced__use_system_emoji">Използване на вградените emoji-та</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Деактивирай вградена в Packmam подръжка на emoji-та</string>
-  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Прехвърляне на всички обаждания през Packmam сървърва, за да се прикрие IP адресът Ви от контатктът Ви. Активирането ще намали качеството на връзката.</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Деактивирай вградена в SinEo подръжка на emoji-та</string>
+  <string name="preferences_advanced__relay_all_calls_through_the_signal_server_to_avoid_revealing_your_ip_address">Прехвърляне на всички обаждания през SinEo сървърва, за да се прикрие IP адресът Ви от контатктът Ви. Активирането ще намали качеството на връзката.</string>
   <string name="preferences_advanced__always_relay_calls">Винаги да се използва прехвърляне на обажданията</string>
   <string name="preferences_app_protection__app_access">Достъп до приложението</string>
   <string name="preferences_app_protection__communication">Комуникация</string>
@@ -1123,9 +1123,9 @@
   <string name="preferences_notifications__calls">Обаждания</string>
   <string name="preferences_notifications__ringtone">Мелодия</string>
   <string name="preferences_chats__show_invitation_prompts">Показване на покани</string>
-  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Показване на покани за контакти без Packmam</string>
+  <string name="preferences_chats__display_invitation_prompts_for_contacts_without_signal">Показване на покани за контакти без SinEo</string>
   <string name="preferences_chats__message_text_size">Размер на текста</string>
-  <string name="preferences_events__contact_joined_signal">Един от контактите Ви се присъедини към Packmam!</string>
+  <string name="preferences_events__contact_joined_signal">Един от контактите Ви се присъедини към SinEo!</string>
   <string name="preferences_notifications__priority">Приоритет</string>
   <string name="preferences_communication__category_sealed_sender">Скрит изпращач</string>
   <string name="preferences_communication__sealed_sender_display_indicators">Показване на индикатори</string>
@@ -1141,7 +1141,7 @@
   <!--conversation_callable_insecure-->
   <string name="conversation_callable_insecure__menu_call">Обаждане</string>
   <!--conversation_callable_secure-->
-  <string name="conversation_callable_secure__menu_call">Packmam обаждане</string>
+  <string name="conversation_callable_secure__menu_call">SinEo обаждане</string>
   <!--conversation_context-->
   <string name="conversation_context__menu_message_details">Информация за съобщението</string>
   <string name="conversation_context__menu_copy_text">Копирай текста</string>
@@ -1205,26 +1205,26 @@
   <string name="verify_display_fragment_context_menu__copy_to_clipboard">Копиране</string>
   <string name="verify_display_fragment_context_menu__compare_with_clipboard">Сравняване с копирани</string>
   <!--reminder_header-->
-  <string name="reminder_header_outdated_build">Вашата версия на Packmam е стара</string>
+  <string name="reminder_header_outdated_build">Вашата версия на SinEo е стара</string>
   <plurals name="reminder_header_outdated_build_details">
     <item quantity="one">Вашата версия на Сигнал ще изтече след %d ден. Натиснете, за да я обновите до най-новата версия.</item>
-    <item quantity="other">Вашата версия на Packmam ще изтече след %d дена. Натиснете, за да я обновите до най-новата версия.</item>
+    <item quantity="other">Вашата версия на SinEo ще изтече след %d дена. Натиснете, за да я обновите до най-новата версия.</item>
   </plurals>
-  <string name="reminder_header_outdated_build_details_today">Вашата версия на Packmam ще изтече днес. Натиснете, за да обновите до най-новата версия.</string>
-  <string name="reminder_header_expired_build">Вашата версия на Packmam е изтекла!</string>
+  <string name="reminder_header_outdated_build_details_today">Вашата версия на SinEo ще изтече днес. Натиснете, за да обновите до най-новата версия.</string>
+  <string name="reminder_header_expired_build">Вашата версия на SinEo е изтекла!</string>
   <string name="reminder_header_expired_build_details">Съобщенията няма да бъдат успешно изпращани от сега нататък. Натиснете, за да обновите до най-новата версия.</string>
   <string name="reminder_header_sms_default_title">Използване като SMS програма по подразбиране</string>
-  <string name="reminder_header_sms_default_text">Натисни, за да направиш Packmam своята SMS програма по подразбиране.</string>
+  <string name="reminder_header_sms_default_text">Натисни, за да направиш SinEo своята SMS програма по подразбиране.</string>
   <string name="reminder_header_sms_import_title">Внасяне на системните SMS-и</string>
-  <string name="reminder_header_sms_import_text">Натиснете, за да копирате SMS съобщенията от Вашия телефон в криптираната база данни на Packmam.</string>
-  <string name="reminder_header_push_title">Активирай Packmam съобщения и обаждания</string>
+  <string name="reminder_header_sms_import_text">Натиснете, за да копирате SMS съобщенията от Вашия телефон в криптираната база данни на SinEo.</string>
+  <string name="reminder_header_push_title">Активирай SinEo съобщения и обаждания</string>
   <string name="reminder_header_push_text">Обнови комуникацията си.</string>
-  <string name="reminder_header_invite_title">Покани в Packmam</string>
+  <string name="reminder_header_invite_title">Покани в SinEo</string>
   <string name="reminder_header_invite_text">Издигни разговора си с %1$s до ново ниво.</string>
   <string name="reminder_header_share_title">Поканете приятелите си!</string>
-  <string name="reminder_header_share_text">Колкото повече приятели използват Packmam, толкова по-добър става той.</string>
-  <string name="reminder_header_service_outage_text">Packmam изпитва технически проблеми. Работи здраво, за да възстановим нормална операция възможно най-бързо.</string>
-  <string name="reminder_header_the_latest_signal_features_wont_work">Най-новите функции на Packmam не работят с тази версия на Android. Моля, обновете устройството, за да получавате бъдещи актуализации на Signal.</string>
+  <string name="reminder_header_share_text">Колкото повече приятели използват SinEo, толкова по-добър става той.</string>
+  <string name="reminder_header_service_outage_text">SinEo изпитва технически проблеми. Работи здраво, за да възстановим нормална операция възможно най-бързо.</string>
+  <string name="reminder_header_the_latest_signal_features_wont_work">Най-новите функции на SinEo не работят с тази версия на Android. Моля, обновете устройството, за да получавате бъдещи актуализации на Signal.</string>
   <!--media_preview-->
   <string name="media_preview__save_title">Запази</string>
   <string name="media_preview__forward_title">Препращане</string>
@@ -1245,16 +1245,16 @@
   <string name="ConversationListFragment_loading">Зареждане...</string>
   <string name="CallNotificationBuilder_connecting">Свързване...</string>
   <string name="Permissions_permission_required">Нужда от разрешение за достъп</string>
-  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">Packmam се нуждае от достъп до SMS-те Ви, за да може да изпраща  нови, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"SMS\".</string>
+  <string name="ConversationActivity_signal_needs_sms_permission_in_order_to_send_an_sms">SinEo се нуждае от достъп до SMS-те Ви, за да може да изпраща  нови, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"SMS\".</string>
   <string name="Permissions_continue">Продължи</string>
   <string name="Permissions_not_now">Не сега</string>
-  <string name="ConversationListActivity_signal_needs_contacts_permission_in_order_to_search_your_contacts_but_it_has_been_permanently_denied">Packmam се нуждае от достъп до контактите Ви, за да може да Ви търси в тях, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Контакти\".</string>
+  <string name="ConversationListActivity_signal_needs_contacts_permission_in_order_to_search_your_contacts_but_it_has_been_permanently_denied">SinEo се нуждае от достъп до контактите Ви, за да може да Ви търси в тях, но той му е отказан. Моля, отидете на настройки в менюто и изберете \"Разрешения\" и \"Контакти\".</string>
   <string name="conversation_activity__enable_signal_messages">АКТИВИРАНЕ НА SIGNAL СЪОБЩЕНИЯ</string>
-  <string name="SQLCipherMigrationHelper_migrating_signal_database">Мигриране на базата данни на Packmam</string>
+  <string name="SQLCipherMigrationHelper_migrating_signal_database">Мигриране на базата данни на SinEo</string>
   <string name="PushDecryptJob_new_locked_message">Ново заключено съобщение</string>
   <string name="PushDecryptJob_unlock_to_view_pending_messages">Отключете, за да прегледате новите съобщения</string>
   <string name="ExperienceUpgradeActivity_unlock_to_complete_update">Отключете, за да довършите актуализацията</string>
-  <string name="ExperienceUpgradeActivity_please_unlock_signal_to_complete_update">Моля отключете Packmam за да довършите актуализацията</string>
+  <string name="ExperienceUpgradeActivity_please_unlock_signal_to_complete_update">Моля отключете SinEo за да довършите актуализацията</string>
   <string name="enter_backup_passphrase_dialog__backup_passphrase">Парола на архива</string>
   <string name="backup_enable_dialog__backups_will_be_saved_to_external_storage_and_encrypted_with_the_passphrase_below_you_must_have_this_passphrase_in_order_to_restore_a_backup">Архивите ще бъдат запазени на външно хранилище и криптирани с паролата задена по-долу. Трябва да използвате същата парола за въстановяване от архива.</string>
   <string name="backup_enable_dialog__i_have_written_down_this_passphrase">Записах тази парола. Без нея, няма да мога да възстановя архива.</string>
@@ -1266,7 +1266,7 @@
   <string name="preferences_chats__create_backup">Създавне на архив</string>
   <string name="RegistrationActivity_enter_backup_passphrase">Въведете парола за архива</string>
   <string name="RegistrationActivity_restore">Възстанови</string>
-  <string name="RegistrationActivity_backup_failure_downgrade">Не е възможно внасянето на складирани съобщения от по-нов версия на Packmam.</string>
+  <string name="RegistrationActivity_backup_failure_downgrade">Не е възможно внасянето на складирани съобщения от по-нов версия на SinEo.</string>
   <string name="RegistrationActivity_incorrect_backup_passphrase">Невалидна парола за архива</string>
   <string name="RegistrationActivity_checking">Проверка...</string>
   <string name="RegistrationActivity_d_messages_so_far">%dсъобщения до тук...</string>
@@ -1281,7 +1281,7 @@
   <string name="BackupDialog_disable_and_delete_all_local_backups">Деактивиране и изтриване на всички локални архиви?</string>
   <string name="BackupDialog_delete_backups_statement">Изтриване на архиви</string>
   <string name="BackupDialog_copied_to_clipboard">Копирано</string>
-  <string name="ChatsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">Packmam изискава разрешение за достъп до външните хранлища, за да може да създаде архиви, но този достъп е парманентно отказан. Моля, продължете до настройки на приложенията и изберете \"Разрешения\" и активирайте \"Хранилище\"</string>
+  <string name="ChatsPreferenceFragment_signal_requires_external_storage_permission_in_order_to_create_backups">SinEo изискава разрешение за достъп до външните хранлища, за да може да създаде архиви, но този достъп е парманентно отказан. Моля, продължете до настройки на приложенията и изберете \"Разрешения\" и активирайте \"Хранилище\"</string>
   <string name="ChatsPreferenceFragment_last_backup_s">Последен архив: %s</string>
   <string name="ChatsPreferenceFragment_in_progress">Извъшрва се</string>
   <string name="LocalBackupJob_creating_backup">Създаване на архив...</string>
@@ -1292,7 +1292,7 @@
   <string name="BackupUtil_never">Никога</string>
   <string name="BackupUtil_unknown">Непознат</string>
   <string name="preferences_app_protection__screen_lock">Заключен екран</string>
-  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Заключване на достъпа до Packmam с вградените в Андроид заключен екран или отпечатък</string>
+  <string name="preferences_app_protection__lock_signal_access_with_android_screen_lock_or_fingerprint">Заключване на достъпа до SinEo с вградените в Андроид заключен екран или отпечатък</string>
   <string name="preferences_app_protection__screen_lock_inactivity_timeout">Време за активирнае при неактивност</string>
   <string name="AppProtectionPreferenceFragment_none">Нищо</string>
   <string name="registration_activity__the_registration_lock_pin_is_not_the_same_as_the_sms_verification_code_you_just_received_please_enter_the_pin_you_previously_configured_in_the_application">ПИН-ът за регистрационното заключване не е същия като СМС кодът за потвърждение, който получихте. Моля, въведете ПИН-а, който сте задали по-рано в приложението.</string>
@@ -1303,7 +1303,7 @@
   <string name="registration_lock_dialog_view__confirm_pin">Потвърдете ПИН</string>
   <string name="registration_lock_reminder_view__enter_your_registration_lock_pin">Въведте ПИН-а за регистрационно заключване</string>
   <string name="registration_lock_reminder_view__enter_pin">Въведете ПИН-а</string>
-  <string name="preferences_app_protection__enable_a_registration_lock_pin_that_will_be_required">Активиране на ПИН за регистрационно заключване, който да бъде изискван при повторно регистрирване на този телефонен номер със Packmam.</string>
+  <string name="preferences_app_protection__enable_a_registration_lock_pin_that_will_be_required">Активиране на ПИН за регистрационно заключване, който да бъде изискван при повторно регистрирване на този телефонен номер със SinEo.</string>
   <string name="preferences_app_protection__registration_lock_pin">Регистрационен ПИН</string>
   <string name="preferences_app_protection__registration_lock">Регистрационно заключване</string>
   <string name="RegistrationActivity_you_must_enter_your_registration_lock_PIN">Трябва да въведете ПИН-а за регистрационно заключване</string>
@@ -1312,13 +1312,13 @@
   <string name="RegistrationActivity_you_have_made_too_many_incorrect_registration_lock_pin_attempts_please_try_again_in_a_day">Направихте твърде много опите за въвеждане на ПИН за регистрационно заключване. Моля, опитайте пак някой друг ден.</string>
   <string name="RegistrationActivity_error_connecting_to_service">Неуспшено свързване с услугата</string>
   <string name="RegistrationActivity_oh_no">О, не!</string>
-  <string name="RegistrationActivity_registration_of_this_phone_number_will_be_possible_without_your_registration_lock_pin_after_seven_days_have_passed">Регистрацията на този телефонен номер ще бъде възможна без ПИН за заключване на регистрацията след като са изминали 7 дена от последната активност на този номер в Packmam. Остават Ви %dдена.</string>
+  <string name="RegistrationActivity_registration_of_this_phone_number_will_be_possible_without_your_registration_lock_pin_after_seven_days_have_passed">Регистрацията на този телефонен номер ще бъде възможна без ПИН за заключване на регистрацията след като са изминали 7 дена от последната активност на този номер в SinEo. Остават Ви %dдена.</string>
   <string name="RegistrationActivity_registration_lock_pin">ПИН за регистрационно заключване</string>
   <string name="RegistrationActivity_this_phone_number_has_registration_lock_enabled_please_enter_the_registration_lock_pin">Този телефонен номер има активирано регистрационно заключване. Моля, въведете ПИН-а за регистрационно заключване.</string>
-  <string name="RegistrationLockDialog_registration_lock_is_enabled_for_your_phone_number">Регистрационното заключване е активирано за Вашият телефонен номер. За да Ви помогне да запомните ПИН-ът за регистрационно заключване, Packmam ще Ви пита за него периодично.</string>
+  <string name="RegistrationLockDialog_registration_lock_is_enabled_for_your_phone_number">Регистрационното заключване е активирано за Вашият телефонен номер. За да Ви помогне да запомните ПИН-ът за регистрационно заключване, SinEo ще Ви пита за него периодично.</string>
   <string name="RegistrationLockDialog_i_forgot_my_pin">Забравих ПИН-а</string>
   <string name="RegistrationLockDialog_forgotten_pin">Забравен ПИН?</string>
-  <string name="RegistrationLockDialog_registration_lock_helps_protect_your_phone_number_from_unauthorized_registration_attempts">Регистрационното заключване предпазва Вашия телефонен номер от неоторизирани опити за регистрация. Тази услуга може да бъде деактивирана по всяко време от секцията за лично пространсто в Packmam.</string>
+  <string name="RegistrationLockDialog_registration_lock_helps_protect_your_phone_number_from_unauthorized_registration_attempts">Регистрационното заключване предпазва Вашия телефонен номер от неоторизирани опити за регистрация. Тази услуга може да бъде деактивирана по всяко време от секцията за лично пространсто в SinEo.</string>
   <string name="RegistrationLockDialog_registration_lock">Регистрационно заключване</string>
   <string name="RegistrationLockDialog_enable">Активиране</string>
   <string name="RegistrationLockDialog_the_registration_lock_pin_must_be_at_least_four_digits">ПИН-ът за регистрационно заключване трябва да бъде поне 4 цифри.</string>
@@ -1327,7 +1327,7 @@
   <string name="RegistrationLockDialog_disable_registration_lock_pin">Деактивиране на ПИН-а за регистрационно заключване?</string>
   <string name="RegistrationLockDialog_disable">Изключи</string>
   <string name="preferences_chats__backups">Архиви</string>
-  <string name="prompt_passphrase_activity__signal_is_locked">Packmam е заключен</string>
+  <string name="prompt_passphrase_activity__signal_is_locked">SinEo е заключен</string>
   <string name="prompt_passphrase_activity__tap_to_unlock">НАТИСНЕТЕ ЗА ОТКЛЮЧВАНЕ</string>
   <string name="RegistrationLockDialog_reminder">Напомняне:</string>
   <string name="recipient_preferences__about">Относно</string>

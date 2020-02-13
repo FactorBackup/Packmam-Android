@@ -58,7 +58,7 @@
                     android:ellipsize="end"
                     android:maxLines="1"
                     android:textColor="?conversation_item_sent_text_primary_color"
-                    tools:text="Short address" />
+                    tools:text="Short Adress" />
 
                 <TextView
                     android:id="@+id/text_view_place_address"
